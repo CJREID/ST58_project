@@ -1,0 +1,67 @@
+Barcode,Lab_Contact,Working_name,Name,Source_Niche,Source_Type,Source_Details,New_Niche,New_Type
+ESC_CA6082AA,FDA Center for Food Safety and Applied Nutrition,SRR3156776,AZ-TG-713-2,Environment,Water,Potable Source Water,Potable Source Water,Potable Source Water
+ESC_DA1038AA,FDA Center for Food Safety and Applied Nutrition,SRR3457725,MOD1-EC6252,Livestock,Swine,colon,colon,colon
+ESC_DA1175AA,FDA Center for Food Safety and Applied Nutrition,SRR3465478,MOD1-EC6182,Livestock,Camelid,feces,feces,feces
+ESC_DA1177AA,FDA Center for Food Safety and Applied Nutrition,SRR3465476,MOD1-EC6180,Wild Animal,Swine,feces,feces,feces
+ESC_DA4611AA,Swansea University,SRR3143601,B87,Human,Human,Human Clinical Bacteriemia,Human Clinical Bacteriemia,Human Clinical Bacteriemia
+ESC_DA8559AA,FDA,SRR2239576,CVM N33443PS,Aquatic,Fish,farm,farm,farm
+ESC_DA8575AA,FDA,SRR2239595,CVM N33849PS,Aquatic,Fish,farm,farm,farm
+ESC_DA8593AA,FDA,SRR2239589,CVM N33719PS,Aquatic,Fish,farm,farm,farm
+ESC_DA8605AA,FDA,SRR2239602,CVM N34152PS,Aquatic,Fish,farm,farm,farm
+ESC_DA8613AA,FDA,SRR2239615,CVM N36113PS,Aquatic,Fish,farm,farm,farm
+ESC_EA1705AA,FDA Center for Food Safety and Applied Nutrition,SRR3957089,MOD1-EC6849,Companion Animal,Ovine,"caprine, ibex, Cretan-Rectum","caprine, ibex, Cretan-Rectum","caprine, ibex, Cretan-Rectum"
+ESC_EA1720AA,FDA Center for Food Safety and Applied Nutrition,SRR3957074,MOD1-EC6368,Wild Animal,Avian,"avian, parrot-Feces","avian, parrot-Feces","avian, parrot-Feces"
+ESC_EA2195AA,FDA Center for Food Safety and Applied Nutrition,SRR3972148,MOD1-EC6848,Human,Human,"Cervidae, Calamian-Rectum","Cervidae, Calamian-Rectum","Cervidae, Calamian-Rectum"
+ESC_EA2388AA,FDA Center for Food Safety and Applied Nutrition,SRR3987507,MOD1-EC5881,Companion Animal,Air,kidney,kidney,kidney
+ESC_EA2397AA,FDA Center for Food Safety and Applied Nutrition,SRR3987498,MOD1-EC5841,Livestock,Air,Intestine-Small,Intestine-Small,Intestine-Small
+ESC_EA2681AA,FDA Center for Food Safety and Applied Nutrition,SRR3987746,MOD1-EC5994,Livestock,Bovine,milk,milk,milk
+ESC_EA2738AA,FDA Center for Food Safety and Applied Nutrition,SRR3987689,MOD1-EC6266,Companion Animal,Ovine,"caprine, Capra , goat-Feces","caprine, Capra , goat-Feces","caprine, Capra , goat-Feces"
+ESC_EA3092AA,FDA Center for Food Safety and Applied Nutrition,SRR3993799,MOD1-EC5179,Wild Animal,Avian,"avian, goose_Feces","avian, goose_Feces","avian, goose_Feces"
+ESC_EA4081AA,FDA/CFSAN,SRR3931199,CFSAN046659,Environment,Plant,Spinach,Spinach,Spinach
+ESC_FA2108AA,Centers for Disease Control and Prevention Enteric Diseases Laboratory Branch,SRR5004156,PNUSAE004413,Environment,Soil/Dust,Stool,Stool,Stool
+ESC_GA0724AA,FDA Center for Food Safety and Applied Nutrition,SRR5341918,PSU-0026,Wild Animal,Other Mammal,Prairie Dog,Prairie Dog,Canine__
+ESC_HA7366AA,FDA Center for Food Safety and Applied Nutrition,SRR6220251,MOD1-EC4515,Environment,Soil/Dust,soil,soil,soil
+ESC_IA1584AA,FDA Center for Food Safety and Applied Nutrition,SRR6412356,MOD1-EC6324,Poultry,Avian,feces; Meleagris,feces Meleagris,feces Meleagris
+ESC_IA1766AA,FDA Center for Food Safety and Applied Nutrition,SRR6427137,MOD1-EC6245,Companion Animal,Swine,pleural cavity,pleural cavity,pleural cavity
+ESC_IA1804AA,FDA Center for Food Safety and Applied Nutrition,SRR6427410,MOD1-EC5243,Wild Animal,Avian,"Feces-Antelope, Topi; Damaliscus lunatus jimela","Feces-Antelope, Topi Damaliscus lunatus jimela","Feces-Antelope, Topi Damaliscus lunatus jimela"
+ESC_IA1884AA,FDA Center for Food Safety and Applied Nutrition,SRR6441170,MOD1-EC5799,Companion Animal,Swine,pleural cavity,pleural cavity,pleural cavity
+ESC_IA1889AA,FDA Center for Food Safety and Applied Nutrition,SRR6441144,MOD1-EC5980,Companion Animal,Swine,pleural cavity,pleural cavity,pleural cavity
+ESC_IA3983AA,FDA Center for Food Safety and Applied Nutrition,SRR6726710,MOD1-EC6462,Wild Animal,Avian,avian; bone marrow,avian bone marrow,avian bone marrow
+ESC_IA7639AA,FDA Center for Food Safety and Applied Nutrition,SRR7084884,PSU-0690,Livestock,Ovine,"Goat, (Caprine)","Goat, (Caprine)","Goat, (Caprine)"
+ESC_JA1678AA,FDA Center for Food Safety and Applied Nutrition,SRR7263703,PSU-0437,Food,Plant,"Food, Lettuce - Leaf","Food, Lettuce - Leaf","Food, Lettuce - Leaf"
+ESC_JA3645AA,FDA Center for Food Safety and Applied Nutrition,SRR7401750,CFSAN082298,Poultry,Avian,Raw Product,Raw Product,Raw Product
+ESC_JA4099AA,FDA Center for Food Safety and Applied Nutrition,SRR7427726,PSU-0724,Wild Animal,Avian,Amphibians & reptiles,Amphibians & reptiles,Amphibians & reptiles
+ESC_JA6045AA,FDA Center for Food Safety and Applied Nutrition,SRR7500674,PSU-0712,Food,Plant,"Antelope, Topi","Antelope, Topi","Antelope, Topi"
+ESC_JA8612AA,Murdoch University,SRR7724612,306ESBA,Wild Animal,Avian,Seagull; Chroicocephalus; ESBA,Seagull Chroicocephalus ESBA,Seagull Chroicocephalus ESBA
+ESC_JA8751AA,Murdoch University,SRR7724751,559CIPA,Wild Animal,Avian,Seagull; Chroicocephalus; CIPA,Seagull Chroicocephalus CIPA,Seagull Chroicocephalus CIPA
+ESC_JA8854AA,FDA Center for Food Safety and Applied Nutrition,SRR7726367,CFSAN084905,Environment,Water,irrigation canal water from Imperial Valley,irrigation canal water from Imperial Valley,irrigation canal water from Imperial Valley
+ESC_KA3752AA,FDA-CVM,SRR8095968,CVM N17EC0588,Aquatic,Air,Whole - cut in lab,Whole - cut in lab,Whole - cut in lab
+ESC_KA4935AA,FDA Center for Food Safety and Applied Nutrition,SRR8140251,PSU-1542,Companion Animal,Air,Dairy processing environment - Floor,Dairy processing environment - Floor,Dairy processing environment - Floor
+ESC_KA4943AA,FDA Center for Food Safety and Applied Nutrition,SRR8140243,PSU-1553,Companion Animal,Air,Dairy processing environment - Squeegee,Dairy processing environment - Squeegee,Dairy processing environment - Squeegee
+ESC_KA4950AA,FDA Center for Food Safety and Applied Nutrition,SRR8140236,PSU-1544,Companion Animal,Air,Dairy processing environment - Floor,Dairy processing environment - Floor,Dairy processing environment - Floor
+ESC_KA4963AA,FDA Center for Food Safety and Applied Nutrition,SRR8140215,PSU-1525,Feed,Plant,"Food, Spinach","Food, Spinach","Food, Spinach"
+ESC_LA0106AA,CENTERS FOR DISEASE CONTROL AND PREVENTION,ERR3040214,NA,Livestock,Bovine,Tupaia glis fecal; Tupaia glis fecal; Tupaia glis fecal,Tupaia glis fecal Tupaia glis fecal Tupaia glis fecal,Tupaia glis fecal Tupaia glis fecal Tupaia glis fecal
+ESC_LA0964AA,University of Birmingham,SRR8502394,ELU7,Environment,Water,river water,river water,river water
+ESC_LA0984AA,University of Birmingham,SRR8502414,ELU21,Environment,Water,river water,river water,river water
+ESC_LA1000AA,University of Birmingham,SRR8502430,EPU62,Environment,Water,river water,river water,river water
+ESC_MA7391AA,University of Edinburgh,ERR3330513,TMP024225,Food,Dairy,goat,goat,goat
+ESC_MA7402AA,University of Edinburgh,ERR3330502,TMP024142,Environment,Soil/Dust,household environment,household environment,household environment
+ESC_MA7404AA,University of Edinburgh,ERR3330500,TMP024130,Food,Plant,pens,pens,pens
+ESC_MA7411AA,University of Edinburgh,ERR3330493,TMP024091,Wild Animal,Rodent,guinea fowl,guinea fowl,guinea fowl
+ESC_MA7414AA,University of Edinburgh,ERR3330490,TMP024071,Environment,Soil/Dust,household environment,household environment,household environment
+ESC_MA7798AA,University of Edinburgh,ERR3329407,TMP018228,Environment,Soil/Dust,surface,surface,surface
+ESC_MA7937AA,University of Edinburgh,ERR3329265,TMP015163,Environment,Soil/Dust,household environment,household environment,household environment
+ESC_MA8006AA,University of Edinburgh,ERR3329176,PLQ000973,Wild Animal,Bat,bat,bat,bat
+ESC_MA8008AA,University of Edinburgh,ERR3329174,PLQ000963,Wild Animal,Bat,bat,bat,bat
+ESC_MA8110AA,University of Edinburgh,ERR3329072,PL015013,Food,Plant,pens,pens,pens
+ESC_MA8149AA,University of Edinburgh,ERR3329033,INT008658,Environment,Soil/Dust,household environment,household environment,household environment
+ESC_MA8387AA,University of Edinburgh,ERR3328765,INT005224,Food,Dairy,goat,goat,goat
+ESC_MA9007AA,FDA Center for Food Safety and Applied Nutrition,SRR9153325,CFSAN085874,Companion Animal,Air,Rat feces from intestine (Rattus norvegicus),Rat feces from intestine (Rattus norvegicus),Rat feces from intestine (Rattus norvegicus)
+ESC_NA1204AA,FDA Center for Food Safety and Applied Nutrition,SRR9301016,US_ESBL113,Livestock,Ovine,Feces (Sheep),Feces (Sheep),Feces (Sheep)
+ESC_NA6417AA,FDA Center for Food Safety and Applied Nutrition,SRR9914141,93.1725,Wild Animal,Avian,Meleagris gallopavo,Meleagris gallopavo,Meleagris gallopavo
+ESC_NA6554AA,FDA Center for Food Safety and Applied Nutrition,SRR9913778,3.4529,Poultry,Avian,Goose,Goose,Goose
+ESC_NA6851AA,FDA Center for Food Safety and Applied Nutrition,SRR9914075,9.1447,Feed,Plant,"Food, Spinach","Food, Spinach","Food, Spinach"
+ESC_OA8498AA,Orebro University Hospital,SRR9887388,ST58 carrying blaCTX-M-55,Environment,Water/River,Water from Svartan River,Water from Svartan River,Water from Svartan River
+ESC_OA8505AA,Orebro University Hospital,SRR9887395,ST58 carrying blaCTX-M-55,Environment,Water/River,Water from Svartan River,Water from Svartan River,Water from Svartan River
+ESC_OA8506AA,Orebro University Hospital,SRR9887396,ST58 carrying blaCTX-M-55,Environment,Water/River,Water from Svartan River,Water from Svartan River,Water from Svartan River
+ESC_PA3570AA,PulseNet Next Generation Subtyping Methods Unit,SRR10536667,PNUSAE041687,Environment,Water/River,water,water,water

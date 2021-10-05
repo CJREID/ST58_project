@@ -1,0 +1,160 @@
+accession	message	sample_name	sample_title	bioproject_accession	organism	strain	isolate	host	isolation_source	collection_date	geo_loc_name	sample_type	altitude	biomaterial_provider	collected_by	culture_collection	depth	env_broad_scale	genotype	host_tissue_sampled	identified_by	lab_host	lat_lon	mating_type	passage_history	samp_size	serotype	serovar	specimen_voucher	temp	description
+SAMN19016820	Successfully loaded	IBIS_34	IBIS_34		Escherichia coli	IBIS_34			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016821	Successfully loaded	IBIS_40	IBIS_40		Escherichia coli	IBIS_40			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016822	Successfully loaded	IBIS_38	IBIS_38		Escherichia coli	IBIS_38			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016823	Successfully loaded	IBIS_42	IBIS_42		Escherichia coli	IBIS_42			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016824	Successfully loaded	IBIS_27	IBIS_27		Escherichia coli	IBIS_27			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016825	Successfully loaded	IBIS_37	IBIS_37		Escherichia coli	IBIS_37			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016826	Successfully loaded	IBIS_33	IBIS_33		Escherichia coli	IBIS_33			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016827	Successfully loaded	IBIS_31	IBIS_31		Escherichia coli	IBIS_31			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016828	Successfully loaded	IBIS_25	IBIS_25		Escherichia coli	IBIS_25			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016829	Successfully loaded	IBIS_61	IBIS_61		Escherichia coli	IBIS_61			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016830	Successfully loaded	IBIS_54	IBIS_54		Escherichia coli	IBIS_54			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016831	Successfully loaded	IBIS_53	IBIS_53		Escherichia coli	IBIS_53			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016832	Successfully loaded	IBIS_59	IBIS_59		Escherichia coli	IBIS_59			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016833	Successfully loaded	IBIS_45	IBIS_45		Escherichia coli	IBIS_45			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016834	Successfully loaded	IBIS_56	IBIS_56		Escherichia coli	IBIS_56			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016835	Successfully loaded	IBIS_28	IBIS_28		Escherichia coli	IBIS_28			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016836	Successfully loaded	IBIS_55	IBIS_55		Escherichia coli	IBIS_55			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016837	Successfully loaded	IBIS_39	IBIS_39		Escherichia coli	IBIS_39			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016838	Successfully loaded	IBIS_52	IBIS_52		Escherichia coli	IBIS_52			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016839	Successfully loaded	IBIS_36	IBIS_36		Escherichia coli	IBIS_36			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016840	Successfully loaded	IBIS_43	IBIS_43		Escherichia coli	IBIS_43			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016841	Successfully loaded	IBIS_57	IBIS_57		Escherichia coli	IBIS_57			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016842	Successfully loaded	IBIS_35	IBIS_35		Escherichia coli	IBIS_35			Wild Animal	2012	Australia	Isolate			Dr Kate Brandis				ST58												
+SAMN19016843	Successfully loaded	AVC193	AVC193		Escherichia coli	AVC193			Companion Animal	2011	Australia	Isolate			Glen Browning				ST58												
+SAMN19016844	Successfully loaded	ESBL20170358	ESBL20170358		Escherichia coli	ESBL20170358			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016845	Successfully loaded	ESBL20160204	ESBL20160204		Escherichia coli	ESBL20160204			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016846	Successfully loaded	ESBL20170243	ESBL20170243		Escherichia coli	ESBL20170243			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016847	Successfully loaded	ESBL20180309	ESBL20180309		Escherichia coli	ESBL20180309			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016848	Successfully loaded	ESBL20140011	ESBL20140011		Escherichia coli	ESBL20140011			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016849	Successfully loaded	ESBL20180248	ESBL20180248		Escherichia coli	ESBL20180248			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016850	Successfully loaded	ESBL20150330	ESBL20150330		Escherichia coli	ESBL20150330			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016851	Successfully loaded	ESBL20150343	ESBL20150343		Escherichia coli	ESBL20150343			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016852	Successfully loaded	ESBL20170337	ESBL20170337		Escherichia coli	ESBL20170337			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016853	Successfully loaded	ESBL20140168	ESBL20140168		Escherichia coli	ESBL20140168			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016854	Successfully loaded	ESBL20170423	ESBL20170423		Escherichia coli	ESBL20170423			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016855	Successfully loaded	ESBL20140304	ESBL20140304		Escherichia coli	ESBL20140304			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016856	Successfully loaded	ESBL20140051	ESBL20140051		Escherichia coli	ESBL20140051			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016857	Successfully loaded	ESBL20160365	ESBL20160365		Escherichia coli	ESBL20160365			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016858	Successfully loaded	ESBL20160351	ESBL20160351		Escherichia coli	ESBL20160351			Human	2019	Denmark	Isolate			Henrik Hasman				ST58												
+SAMN19016859	Successfully loaded	32153	32153		Escherichia coli	32153			Livestock	2012	France	Isolate			Jean-Yves Madec				ST58												
+SAMN19016860	Successfully loaded	31479	31479		Escherichia coli	31479			Livestock	2012	France	Isolate			Jean-Yves Madec				ST58												
+SAMN19016861	Successfully loaded	26497	26497		Escherichia coli	26497			Livestock	2010	France	Isolate			Jean-Yves Madec				ST58												
+SAMN19016862	Successfully loaded	29817	29817		Escherichia coli	29817			Livestock	2012	France	Isolate			Jean-Yves Madec				ST58												
+SAMN19016863	Successfully loaded	27116	27116		Escherichia coli	27116			Livestock	2011	France	Isolate			Jean-Yves Madec				ST58												
+SAMN19016864	Successfully loaded	30372	30372		Escherichia coli	30372			Livestock	2012	France	Isolate			Jean-Yves Madec				ST58												
+SAMN19016865	Successfully loaded	20098	20098		Escherichia coli	20098			Livestock	2007	France	Isolate			Jean-Yves Madec				ST58												
+SAMN19016866	Successfully loaded	29184	29184		Escherichia coli	29184			Livestock	2012	France	Isolate			Jean-Yves Madec				ST58												
+SAMN19016867	Successfully loaded	32205	32205		Escherichia coli	32205			Livestock	2012	France	Isolate			Jean-Yves Madec				ST58												
+SAMN19016868	Successfully loaded	47711	47711		Escherichia coli	47711			Livestock	2017	France	Isolate			Jean-Yves Madec				ST58												
+SAMN19016869	Successfully loaded	32068	32068		Escherichia coli	32068			Livestock	2012	France	Isolate			Jean-Yves Madec				ST58												
+SAMN19016870	Successfully loaded	28137	28137		Escherichia coli	28137			Livestock	2012	France	Isolate			Jean-Yves Madec				ST58												
+SAMN19016871	Successfully loaded	46149	46149		Escherichia coli	46149			Livestock	2016	France	Isolate			Jean-Yves Madec				ST58												
+SAMN19016872	Successfully loaded	Vlees_ESBL_2013_0170	Vlees_ESBL_2013_0170		Escherichia coli	Vlees_ESBL_2013_0170			Livestock	2013	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016873	Successfully loaded	SafeFoodERA_ESBL_375	SafeFoodERA_ESBL_375		Escherichia coli	SafeFoodERA_ESBL_375			Livestock	2007	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016874	Successfully loaded	Vlees_ESBL_2014_1504	Vlees_ESBL_2014_1504		Escherichia coli	Vlees_ESBL_2014_1504			Livestock	2014	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016875	Successfully loaded	Vlees_ESBL_2013_1429	Vlees_ESBL_2013_1429		Escherichia coli	Vlees_ESBL_2013_1429			Livestock	2013	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016876	Successfully loaded	Vlees_ESBL_2013_1236	Vlees_ESBL_2013_1236		Escherichia coli	Vlees_ESBL_2013_1236			Livestock	2013	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016877	Successfully loaded	Vlees_ESBL_2012_133	Vlees_ESBL_2012_133		Escherichia coli	Vlees_ESBL_2012_133			Livestock	2012	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016878	Successfully loaded	SafeFoodERA_ESBL_423	SafeFoodERA_ESBL_423		Escherichia coli	SafeFoodERA_ESBL_423			Livestock	2006	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016879	Successfully loaded	E0407	E0407		Escherichia coli	E0407			Livestock	2013	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016880	Successfully loaded	SafeFoodERA_ESBL_045	SafeFoodERA_ESBL_045		Escherichia coli	SafeFoodERA_ESBL_045			Human	2009	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016881	Successfully loaded	SafeFoodERA_ESBL_101	SafeFoodERA_ESBL_101		Escherichia coli	SafeFoodERA_ESBL_101			Human	2009	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016882	Successfully loaded	SafeFoodERA_ESBL_097	SafeFoodERA_ESBL_097		Escherichia coli	SafeFoodERA_ESBL_097			Human	2009	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016883	Successfully loaded	ESBL_Ecoli_2.64	ESBL_Ecoli_2.64		Escherichia coli	ESBL_Ecoli_2.64			Livestock	2014	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016884	Successfully loaded	OT_ESBL_1040	OT_ESBL_1040		Escherichia coli	OT_ESBL_1040			Livestock	2012	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016885	Successfully loaded	OT_ESBL_0359	OT_ESBL_0359		Escherichia coli	OT_ESBL_0359			Livestock	2011	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016886	Successfully loaded	OT_ESBL_0441	OT_ESBL_0441		Escherichia coli	OT_ESBL_0441			Livestock	2011	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016887	Successfully loaded	ESBL_Ecoli_4.03	ESBL_Ecoli_4.03		Escherichia coli	ESBL_Ecoli_4.03			Livestock	2014	Netherlands	Isolate			Mike Brouwer				ST58												
+SAMN19016888	Successfully loaded	SafeFoodERA_ESBL_582	SafeFoodERA_ESBL_582		Escherichia coli	SafeFoodERA_ESBL_582			Livestock	2008	United Kingdom	Isolate			Mike Brouwer				ST58												
+SAMN19016889	Successfully loaded	2203	2203		Escherichia coli	2203			Wild Animal	2012	Canada	Isolate			Monika Dolejska				ST58												
+SAMN19016890	Successfully loaded	1568m1	1568m1		Escherichia coli	1568m1			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016891	Successfully loaded	HP131	HP131		Escherichia coli	HP131			Wild Animal	2010	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016892	Successfully loaded	CE70N	CE70N		Escherichia coli	CE70N			Wild Animal	2012	United States	Isolate			Monika Dolejska				ST58												
+SAMN19016893	Successfully loaded	12zCTX	12zCTX		Escherichia coli	12zCTX			Wild Animal	2010	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016894	Successfully loaded	1657m1	1657m1		Escherichia coli	1657m1			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016895	Successfully loaded	2063	2063		Escherichia coli	2063			Wild Animal	2012	Canada	Isolate			Monika Dolejska				ST58												
+SAMN19016896	Successfully loaded	1605m1	1605m1		Escherichia coli	1605m1			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016897	Successfully loaded	HP149	HP149		Escherichia coli	HP149			Wild Animal	2010	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016898	Successfully loaded	HP71	HP71		Escherichia coli	HP71			Wild Animal	2010	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016899	Successfully loaded	HP40	HP40		Escherichia coli	HP40			Wild Animal	2010	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016900	Successfully loaded	CE1606	CE1606		Escherichia coli	CE1606			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016901	Successfully loaded	2078	2078		Escherichia coli	2078			Wild Animal	2012	Canada	Isolate			Monika Dolejska				ST58												
+SAMN19016902	Successfully loaded	HPG79	HPG79		Escherichia coli	HPG79			Wild Animal	2010	Poland	Isolate			Monika Dolejska				ST58												
+SAMN19016903	Successfully loaded	1680m1	1680m1		Escherichia coli	1680m1			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016904	Successfully loaded	CE1657	CE1657		Escherichia coli	CE1657			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016905	Successfully loaded	1553m1	1553m1		Escherichia coli	1553m1			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016906	Successfully loaded	HP150	HP150		Escherichia coli	HP150			Wild Animal	2010	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016907	Successfully loaded	2183	2183		Escherichia coli	2183			Wild Animal	2012	Canada	Isolate			Monika Dolejska				ST58												
+SAMN19016908	Successfully loaded	HP144	HP144		Escherichia coli	HP144			Wild Animal	2010	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016909	Successfully loaded	2067	2067		Escherichia coli	2067			Wild Animal	2012	Canada	Isolate			Monika Dolejska				ST58												
+SAMN19016910	Successfully loaded	4438	4438		Escherichia coli	4438			Wild Animal	2012	Canada	Isolate			Monika Dolejska				ST58												
+SAMN19016911	Successfully loaded	HP90	HP90		Escherichia coli	HP90			Wild Animal	2010	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016912	Successfully loaded	CE145N	CE145N		Escherichia coli	CE145N			Wild Animal	2012	United States	Isolate			Monika Dolejska				ST58												
+SAMN19016913	Successfully loaded	HP41	HP41		Escherichia coli	HP41			Wild Animal	2010	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016914	Successfully loaded	1560m1	1560m1		Escherichia coli	1560m1			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016915	Successfully loaded	CE1568	CE1568		Escherichia coli	CE1568			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016916	Successfully loaded	HPG4	HPG4		Escherichia coli	HPG4			Wild Animal	2010	Poland	Isolate			Monika Dolejska				ST58												
+SAMN19016917	Successfully loaded	30CTX	30CTX		Escherichia coli	30CTX			Wild Animal	2010	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016918	Successfully loaded	1585m1	1585m1		Escherichia coli	1585m1			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016919	Successfully loaded	HPG98	HPG98		Escherichia coli	HPG98			Wild Animal	2010	Poland	Isolate			Monika Dolejska				ST58												
+SAMN19016920	Successfully loaded	CE701N	CE701N		Escherichia coli	CE701N			Wild Animal	2012	United States	Isolate			Monika Dolejska				ST58												
+SAMN19016921	Successfully loaded	CE91	CE91		Escherichia coli	CE91			Wild Animal	2012	United States	Isolate			Monika Dolejska				ST58												
+SAMN19016922	Successfully loaded	4381	4381		Escherichia coli	4381			Wild Animal	2012	Canada	Isolate			Monika Dolejska				ST58												
+SAMN19016923	Successfully loaded	CE627	CE627		Escherichia coli	CE627			Wild Animal	2012	United States	Isolate			Monika Dolejska				ST58												
+SAMN19016924	Successfully loaded	1824H	1824H		Escherichia coli	1824H			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016925	Successfully loaded	HP107	HP107		Escherichia coli	HP107			Wild Animal	2010	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016926	Successfully loaded	HP89	HP89		Escherichia coli	HP89			Wild Animal	2010	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016927	Successfully loaded	HP79	HP79		Escherichia coli	HP79			Wild Animal	2010	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016928	Successfully loaded	CE1605	CE1605		Escherichia coli	CE1605			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016929	Successfully loaded	4365	4365		Escherichia coli	4365			Wild Animal	2012	Canada	Isolate			Monika Dolejska				ST58												
+SAMN19016930	Successfully loaded	1541m1	1541m1		Escherichia coli	1541m1			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016931	Successfully loaded	1586m1	1586m1		Escherichia coli	1586m1			Wild Animal	2012	Australia	Isolate			Monika Dolejska				ST58												
+SAMN19016932	Successfully loaded	SH5c	SH5c		Escherichia coli	SH5c			Environment	2016	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016933	Successfully loaded	SH30c	SH30c		Escherichia coli	SH30c			Environment	2016	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016934	Successfully loaded	SH12c	SH12c		Escherichia coli	SH12c			Environment	2016	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016935	Successfully loaded	9162ESCO	9162ESCO		Escherichia coli	9162ESCO			Human	2011	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016936	Successfully loaded	3523	3523		Escherichia coli	3523			Livestock	2013	Czech Republic	Isolate			Monika Dolejska				ST58												
+SAMN19016937	Successfully loaded	2009_49	2009_49		Escherichia coli	2009_49			Human	2009	Australia	Isolate			Nola Hitchick				ST58												
+SAMN19016938	Successfully loaded	IMT17513	IMT17513		Escherichia coli	IMT17513			Companion Animal	2008	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016939	Successfully loaded	IMT17550	IMT17550		Escherichia coli	IMT17550			Companion Animal	2008	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016940	Successfully loaded	IMT17548	IMT17548		Escherichia coli	IMT17548			Companion Animal	2008	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016941	Successfully loaded	IMT18614	IMT18614		Escherichia coli	IMT18614			Companion Animal	2009	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016942	Successfully loaded	IMT17572	IMT17572		Escherichia coli	IMT17572			Companion Animal	2008	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016943	Successfully loaded	IMT18579	IMT18579		Escherichia coli	IMT18579			Companion Animal	2009	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016944	Successfully loaded	IMT20106	IMT20106		Escherichia coli	IMT20106			Companion Animal	2009	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016945	Successfully loaded	142661	142661		Escherichia coli	142661			Livestock	2015	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016946	Successfully loaded	111396	111396		Escherichia coli	111396			Livestock	2011	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016947	Successfully loaded	142897	142897		Escherichia coli	142897			Livestock	2015	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016948	Successfully loaded	IMT21439	IMT21439		Escherichia coli	IMT21439			Livestock	2010	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016949	Successfully loaded	IMT24109	IMT24109		Escherichia coli	IMT24109			Livestock	2010	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016950	Successfully loaded	IMT24815	IMT24815		Escherichia coli	IMT24815			Livestock	2011	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016951	Successfully loaded	IMT19550	IMT19550		Escherichia coli	IMT19550			Livestock	2009	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016952	Successfully loaded	IMT18276	IMT18276		Escherichia coli	IMT18276			Livestock	2009	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016953	Successfully loaded	103764	103764		Escherichia coli	103764			Livestock	2010	Germany	Isolate			Prof. Stefan Schwarz				ST58												
+SAMN19016954	Successfully loaded	Ec4011	Ec4011		Escherichia coli	Ec4011			Wild Animal	2013	Sweden	Isolate			Stefan Borjesson				ST58												
+SAMN19016955	Successfully loaded	CFL3ctx	CFL3ctx		Escherichia coli	CFL3ctx			Livestock	2018	Sweden	Isolate			Stefan Borjesson				ST58												
+SAMN19016956	Successfully loaded	MI-12-654	MI-12-654		Escherichia coli	MI-12-654			Environment	2012	Sweden	Isolate			Stefan Borjesson				ST58												
+SAMN19016957	Successfully loaded	MI-12-604	MI-12-604		Escherichia coli	MI-12-604			Environment	2012	Sweden	Isolate			Stefan Borjesson				ST58												
+SAMN19016958	Successfully loaded	MI-12-427	MI-12-427		Escherichia coli	MI-12-427			Environment	2012	Sweden	Isolate			Stefan Borjesson				ST58												
+SAMN19016959	Successfully loaded	MI-12-184	MI-12-184		Escherichia coli	MI-12-184			Environment	2012	Sweden	Isolate			Stefan Borjesson				ST58												
+SAMN19016960	Successfully loaded	Ec1493	Ec1493		Escherichia coli	Ec1493			Human	2011	Sweden	Isolate			Stefan Borjesson				ST58												
+SAMN19016961	Successfully loaded	Eco1211	Eco1211		Escherichia coli	Eco1211			Human	2011	Sweden	Isolate			Stefan Borjesson				ST58												
+SAMN19016962	Successfully loaded	CN35ctx	CN35ctx		Escherichia coli	CN35ctx			Livestock	2018	Sweden	Isolate			Stefan Borjesson				ST58												
+SAMN19016963	Successfully loaded	AD742	AD742		Escherichia coli	AD742			Livestock	2012	Sweden	Isolate			Stefan Borjesson				ST58												
+SAMN19016964	Successfully loaded	AD741	AD741		Escherichia coli	AD741			Livestock	2012	Sweden	Isolate			Stefan Borjesson				ST58												
+SAMN19016965	Successfully loaded	SS_3_G3	SS_3_G3		Escherichia coli	SS_3_G3			Environment	2016	Germany	Isolate			Thomas Berendonk				ST58												
+SAMN19016966	Successfully loaded	SS_4_G3	SS_4_G3		Escherichia coli	SS_4_G3			Environment	2017	Germany	Isolate			Thomas Berendonk				ST58												
+SAMN19016967	Successfully loaded	SS_5_H8	SS_5_H8		Escherichia coli	SS_5_H8			Environment	2016	Germany	Isolate			Thomas Berendonk				ST58												
+SAMN19016968	Successfully loaded	SS_5_E10	SS_5_E10		Escherichia coli	SS_5_E10			Environment	2017	Germany	Isolate			Thomas Berendonk				ST58												
+SAMN19016969	Successfully loaded	SS_5_H2	SS_5_H2		Escherichia coli	SS_5_H2			Environment	2017	Germany	Isolate			Thomas Berendonk				ST58												
+SAMN19016970	Successfully loaded	SS_5_E11	SS_5_E11		Escherichia coli	SS_5_E11			Environment	2017	Germany	Isolate			Thomas Berendonk				ST58												
+SAMN19016971	Successfully loaded	SS_2_H5	SS_2_H5		Escherichia coli	SS_2_H5			Environment	2016	Germany	Isolate			Thomas Berendonk				ST58												
+SAMN19016972	Successfully loaded	SS_4_H10	SS_4_H10		Escherichia coli	SS_4_H10			Environment	2017	Germany	Isolate			Thomas Berendonk				ST58												
+SAMN19016973	Successfully loaded	SS_2_G2	SS_2_G2		Escherichia coli	SS_2_G2			Environment	2016	Germany	Isolate			Thomas Berendonk				ST58												
+SAMN19016974	Successfully loaded	SS_4_E2	SS_4_E2		Escherichia coli	SS_4_E2			Environment	2017	Germany	Isolate			Thomas Berendonk				ST58												
+SAMN19016975	Successfully loaded	SS_5_B4	SS_5_B4		Escherichia coli	SS_5_B4			Environment	2017	Germany	Isolate			Thomas Berendonk				ST58												
+SAMN19016976	Successfully loaded	SS_4_G5	SS_4_G5		Escherichia coli	SS_4_G5			Environment	2017	Germany	Isolate			Thomas Berendonk				ST58												
+SAMN19016977	Successfully loaded	TZ97	TZ97		Escherichia coli	TZ97			Livestock	2017	Australia	Isolate			Toni Chapman				ST58												
+SAMN19016978	Successfully loaded	TZ124	TZ124		Escherichia coli	TZ124			Livestock	2017	Australia	Isolate			Toni Chapman				ST58												

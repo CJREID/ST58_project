@@ -1,0 +1,753 @@
+Name,Barcode,Niche,Source,Collection Year,Continent,Country,Data Origin,PMID
+SRR2133202,ESC_AA7747AA,Livestock,Poultry,2009,North America,United States,Public,NA
+SRR2085672,ESC_AA8220AA,Livestock,Bovine,2009,North America,United States,Public,NA
+SRR1916392,ESC_BA1857AA,Livestock,Poultry,2014,North America,United States,Public,NA
+SRR1314427,ESC_BA5152AA,Human,ExPEC,2011,North America,United States,Public,NA
+SRR1314369,ESC_BA5210AA,Human,ExPEC,2011,North America,United States,Public,NA
+SRR1301202,ESC_BA5499AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1269417,ESC_BA8137AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1207494,ESC_BA8242AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1181552,ESC_BA8632AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1178266,ESC_BA8652AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1177636,ESC_BA8670AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1177624,ESC_BA8673AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1177607,ESC_BA8677AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1177604,ESC_BA8678AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1177594,ESC_BA8681AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1177572,ESC_BA8688AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1177290,ESC_BA8696AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1177279,ESC_BA8701AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1177252,ESC_BA8705AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1177217,ESC_BA8707AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR1177189,ESC_BA8709AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR785679,ESC_BA9244AA,Human,ExPEC,2006,Europe,Denmark,Public,NA
+SRR640055,ESC_CA1429AA,Human,Human Other,2010,Europe,Denmark,Public,NA
+SRR2970284,ESC_CA4495AA,Livestock,Bovine,2014,North America,United States,Public,NA
+SRR2970277,ESC_CA4502AA,Livestock,Bovine,2014,North America,United States,Public,NA
+SRR2970276,ESC_CA4503AA,Livestock,Porcine,2014,North America,United States,Public,NA
+SRR2970232,ESC_CA4547AA,Livestock,Bovine,2014,North America,United States,Public,NA
+SRR2970231,ESC_CA4548AA,Livestock,Porcine,2014,North America,United States,Public,NA
+SRR2970220,ESC_CA4559AA,Livestock,Bovine,2014,North America,United States,Public,NA
+SRR2970205,ESC_CA4574AA,Livestock,Porcine,2014,North America,United States,Public,NA
+SRR2970193,ESC_CA4586AA,Livestock,Porcine,2014,North America,United States,Public,NA
+SRR2970186,ESC_CA4593AA,Livestock,Bovine,2014,North America,United States,Public,NA
+SRR2970157,ESC_CA4622AA,Livestock,Bovine,2014,North America,United States,Public,NA
+SRR3136837,ESC_CA6032AA,Environment,Wastewater,2014,North America,United States,Public,NA
+SRR3156766,ESC_CA6090AA,Environment,Wastewater,2014,North America,United States,Public,NA
+SRR3173518,ESC_CA6903AA,Environment,Wastewater,2014,North America,United States,Public,NA
+SRR3184067,ESC_CA6997AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR3466376,ESC_DA1100AA,Livestock,Bovine,2007,North America,United States,Public,NA
+SRR3466375,ESC_DA1101AA,Livestock,Bovine,2007,North America,United States,Public,NA
+SRR3466373,ESC_DA1103AA,Livestock,Bovine,2007,North America,United States,Public,NA
+SRR3466362,ESC_DA1109AA,Livestock,Bovine,2007,North America,United States,Public,NA
+ERR1417750,ESC_DA2057AA,Livestock,Bovine,2014,Europe,Denmark,Public,NA
+SRR3579396,ESC_DA2397AA,Human,Human Other,2013,Europe,United Kingdom,Public,NA
+SRR3578579,ESC_DA2647AA,Human,Human Other,2015,Europe,United Kingdom,Public,NA
+SRR3657449,ESC_DA3227AA,Livestock,Bovine,2015,North America,United States,Public,NA
+SRR3098765,ESC_DA4871AA,Human,Human Other,2002,North America,United States,Public,NA
+SRR3057121,ESC_DA5027AA,Human,ExPEC,2015,North America,United States,Public,NA
+SRR3050951,ESC_DA5347AA,Human,ExPEC,2010,Europe,United Kingdom,Public,NA
+SRR3050911,ESC_DA5387AA,Human,ExPEC,2010,Europe,United Kingdom,Public,NA
+SRR3957186,ESC_EA1626AA,Livestock,Bovine,1970,North America,United States,Public,NA
+SRR3951497,ESC_EA1979AA,Companion Animal,Canine,1995,North America,United States,Public,NA
+SRR3977094,ESC_EA2038AA,Livestock,Bovine,1998,North America,United States,Public,NA
+SRR3972934,ESC_EA2172AA,Livestock,Bovine,1997,North America,United States,Public,NA
+SRR3972844,ESC_EA2174AA,Livestock,Bovine,1997,North America,United States,Public,NA
+SRR3972555,ESC_EA2179AA,Livestock,Bovine,1997,North America,United States,Public,NA
+SRR3972151,ESC_EA2193AA,Livestock,Ovine,1996,North America,United States,Public,NA
+SRR3972131,ESC_EA2206AA,Livestock,Bovine,1996,North America,United States,Public,NA
+SRR3971186,ESC_EA2223AA,Livestock,Porcine,1975,North America,United States,Public,NA
+SRR3987648,ESC_EA2286AA,Human,ExPEC,1992,North America,United States,Public,NA
+SRR3987644,ESC_EA2289AA,Human,ExPEC,1992,North America,United States,Public,NA
+SRR3987568,ESC_EA2332AA,Human,Human Other,1991,Asia,Saudi Arabia,Public,NA
+SRR3987539,ESC_EA2356AA,Livestock,Poultry,1990,North America,United States,Public,NA
+SRR3987534,ESC_EA2361AA,Livestock,Bovine,1990,North America,United States,Public,NA
+SRR3988167,ESC_EA2446AA,Livestock,Bovine,1981,North America,United States,Public,NA
+SRR3988135,ESC_EA2470AA,Livestock,Bovine,1982,North America,United States,Public,NA
+SRR3987979,ESC_EA2596AA,Livestock,Bovine,1981,North America,United States,Public,NA
+SRR3987972,ESC_EA2603AA,Livestock,Poultry,1981,North America,United States,Public,NA
+SRR3987912,ESC_EA2654AA,Livestock,Bovine,1987,North America,United States,Public,NA
+SRR3987673,ESC_EA2753AA,Livestock,Bovine,1980,North America,United States,Public,NA
+SRR3989769,ESC_EA2802AA,Livestock,Bovine,1979,North America,United States,Public,NA
+SRR3989763,ESC_EA2808AA,Livestock,Poultry,1978,North America,United States,Public,NA
+SRR3989588,ESC_EA2909AA,Livestock,Bovine,2013,North America,United States,Public,NA
+SRR3989506,ESC_EA2940AA,Livestock,Bovine,2013,North America,United States,Public,NA
+SRR3993844,ESC_EA3050AA,Livestock,Ovine,1982,North America,United States,Public,NA
+SRR4046411,ESC_EA4247AA,Livestock,Porcine,2014,North America,United States,Public,NA
+SRR5181652,ESC_EA5058AA,Livestock,Bovine,2014,North America,United States,Public,NA
+SRR4263664,ESC_EA5874AA,Human,Human Other,1988,North America,Canada,Public,NA
+SRR4260153,ESC_EA5939AA,Livestock,Bovine,2014,North America,United States,Public,NA
+SRR4294894,ESC_EA6247AA,Livestock,Bovine,2014,North America,United States,Public,NA
+SRR4294822,ESC_EA6271AA,Livestock,Bovine,2014,North America,United States,Public,NA
+SRR4294821,ESC_EA6272AA,Livestock,Bovine,2014,North America,United States,Public,NA
+SRR4301123,ESC_EA6395AA,Livestock,Bovine,2016,North America,United States,Public,NA
+SRR4301122,ESC_EA6396AA,Livestock,Bovine,2014,North America,United States,Public,NA
+SRR4340433,ESC_EA8416AA,Human,Human Other,1999,North America,United States,Public,NA
+SRR5031173,ESC_FA3864AA,Human,Human Other,2015,Europe,United Kingdom,Public,NA
+SRR5030800,ESC_FA3908AA,Human,Human Other,2015,Europe,United Kingdom,Public,NA
+ERR1656416,ESC_FA5623AA,Livestock,Porcine,2015,Europe,Denmark,Public,NA
+ERR1656410,ESC_FA5629AA,Livestock,Porcine,2015,Europe,Denmark,Public,NA
+ERR1656403,ESC_FA5636AA,Livestock,Porcine,2015,Europe,Denmark,Public,NA
+ERR1656402,ESC_FA5637AA,Livestock,Porcine,2015,Europe,Denmark,Public,NA
+ERR1656401,ESC_FA5638AA,Livestock,Porcine,2015,Europe,Denmark,Public,NA
+ERR1656389,ESC_FA5650AA,Livestock,Porcine,2015,Europe,Denmark,Public,NA
+SRR5120224,ESC_FA5721AA,Human,ExPEC,2016,North America,United States,Public,NA
+SRR5187806,ESC_FA7784AA,Livestock,Poultry,1985,North America,United States,Public,NA
+SRR5217722,ESC_FA7909AA,Livestock,Poultry,2016,North America,United States,Public,NA
+SRR5330902,ESC_GA0224AA,Livestock,Porcine,2014,North America,United States,Public,NA
+SRR5330817,ESC_GA0285AA,Livestock,Bovine,2014,North America,United States,Public,NA
+SRR5330816,ESC_GA0286AA,Livestock,Poultry,2014,North America,United States,Public,NA
+SRR5341958,ESC_GA0717AA,Livestock,Bovine,1997,North America,United States,Public,NA
+SRR5341919,ESC_GA0723AA,Livestock,Bovine,1997,North America,United States,Public,NA
+SRR5445232,ESC_GA2599AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR5459141,ESC_GA2812AA,Livestock,Bovine,2016,Africa,Uganda,Public,NA
+SRR5470823,ESC_GA2983AA,Livestock,Bovine,1999,North America,United States,Public,NA
+SRR5660167,ESC_GA6975AA,Human,Human Other,2014,Asia,Thailand,Public,NA
+SRR5660166,ESC_GA6976AA,Human,Human Other,2014,Asia,Thailand,Public,NA
+SRR5762158,ESC_GA7275AA,Livestock,Porcine,2017,North America,United States,Public,NA
+ERR2019258,ESC_GA7459AA,Livestock,Bovine,2015,Europe,Spain,Public,NA
+ERR2019245,ESC_GA7472AA,Livestock,Porcine,2015,Europe,Spain,Public,NA
+ERR2019113,ESC_GA7587AA,Livestock,Bovine,2015,Europe,Belgium,Public,NA
+ERR2019093,ESC_GA7605AA,Livestock,Bovine,2015,Europe,Austria,Public,NA
+ERR2027622,ESC_GA8202AA,Human,Human Other,2014,Africa,Democratic Republic of the Congo,Public,NA
+SRR5890300,ESC_GA8989AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR5890288,ESC_GA8993AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR5901513,ESC_GA9109AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR5912882,ESC_GA9300AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR5956527,ESC_HA0245AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR5943573,ESC_HA0357AA,Human,Human Other,2016,Asia,Thailand,Public,NA
+SRR5943571,ESC_HA0359AA,Human,Human Other,2016,Asia,Thailand,Public,NA
+SRR6039969,ESC_HA1152AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR6039966,ESC_HA1155AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6039958,ESC_HA1157AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR6039943,ESC_HA1161AA,Livestock,Bovine,2017,North America,United States,Public,NA
+ERR2124239,ESC_HA2031AA,Human,Human Other,2016,Europe,Ireland,Public,NA
+ERR2124232,ESC_HA2038AA,Human,Human Other,2016,Europe,Ireland,Public,NA
+SRR6051639,ESC_HA2189AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6121985,ESC_HA4308AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6121983,ESC_HA4309AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR6121975,ESC_HA4313AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR6219924,ESC_HA7386AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6219724,ESC_HA7397AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6219715,ESC_HA7399AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6219699,ESC_HA7400AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6231944,ESC_HA7476AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR6231942,ESC_HA7478AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6231935,ESC_HA7485AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR6231923,ESC_HA7497AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR6231921,ESC_HA7499AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6231915,ESC_HA7505AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR6238424,ESC_HA7518AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR6238390,ESC_HA7520AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6238136,ESC_HA7529AA,Livestock,Porcine,2017,North America,United States,Public,NA
+ERR1512522,ESC_HA7570AA,Livestock,Bovine,2015,Europe,Denmark,Public,NA
+ERR1512494,ESC_HA7598AA,Livestock,Poultry,2014,Europe,Denmark,Public,NA
+ERR1512396,ESC_HA7696AA,Livestock,Porcine,2015,Europe,Denmark,Public,NA
+ERR2193922,ESC_HA8218AA,Livestock,Bovine,2015,Europe,Germany,Public,NA
+SRR6292813,ESC_HA8275AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6292797,ESC_HA8283AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR6292465,ESC_HA8290AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR6292462,ESC_HA8291AA,Livestock,Bovine,2017,North America,United States,Public,NA
+DRR103261,ESC_HA8939AA,Livestock,Bovine,2014,Asia,Japan,Public,NA
+DRR103192,ESC_HA9008AA,Livestock,Bovine,2014,Asia,Japan,Public,NA
+DRR103167,ESC_HA9033AA,Livestock,Bovine,2014,Asia,Japan,Public,NA
+DRR103151,ESC_HA9049AA,Livestock,Bovine,2014,Asia,Japan,Public,NA
+DRR103134,ESC_HA9066AA,Livestock,Bovine,2014,Asia,Japan,Public,NA
+DRR103113,ESC_HA9087AA,Livestock,Bovine,2014,Asia,Japan,Public,NA
+DRR103054,ESC_HA9146AA,Livestock,Bovine,2013,Asia,Japan,Public,NA
+DRR103038,ESC_HA9162AA,Livestock,Bovine,2013,Asia,Japan,Public,NA
+DRR103028,ESC_HA9172AA,Livestock,Bovine,2013,Asia,Japan,Public,NA
+DRR102992,ESC_HA9208AA,Livestock,Bovine,2014,Asia,Japan,Public,NA
+DRR102553,ESC_HA9647AA,Livestock,Bovine,2015,Europe,Belgium,Public,NA
+DRR102547,ESC_HA9653AA,Livestock,Bovine,2015,Europe,Belgium,Public,NA
+SRR6314306,ESC_HA9721AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR6376579,ESC_IA0968AA,Wild Animal,Avian,2016,North America,United States,Public,NA
+SRR6376580,ESC_IA0969AA,Wild Animal,Avian,2016,North America,United States,Public,NA
+SRR6376582,ESC_IA0971AA,Wild Animal,Avian,2016,North America,United States,Public,NA
+SRR6376586,ESC_IA0975AA,Wild Animal,Avian,2016,North America,United States,Public,NA
+SRR6376593,ESC_IA0982AA,Wild Animal,Avian,2016,North America,United States,Public,NA
+SRR6376595,ESC_IA0984AA,Wild Animal,Avian,2016,North America,United States,Public,NA
+SRR6376596,ESC_IA0985AA,Wild Animal,Avian,2016,North America,United States,Public,NA
+SRR6376598,ESC_IA0987AA,Wild Animal,Avian,2016,North America,United States,Public,NA
+SRR6373495,ESC_IA1066AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6373478,ESC_IA1069AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR6372968,ESC_IA1081AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6412375,ESC_IA1572AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR6409915,ESC_IA1636AA,Livestock,Porcine,2017,Europe,Ireland,Public,NA
+SRR6426901,ESC_IA1769AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR6438329,ESC_IA1833AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR6438327,ESC_IA1835AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6441236,ESC_IA1881AA,Livestock,Porcine,1983,North America,United States,Public,NA
+SRR6505050,ESC_IA2662AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6505046,ESC_IA2666AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6505023,ESC_IA2671AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR6497963,ESC_IA2678AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR6497954,ESC_IA2681AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR6683918,ESC_IA3525AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR6681176,ESC_IA3547AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR6681083,ESC_IA3557AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR6701906,ESC_IA3623AA,Human,ExPEC,2015,North America,United States,Public,NA
+SRR6713463,ESC_IA3807AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR6713428,ESC_IA3812AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR6713394,ESC_IA3815AA,Livestock,Porcine,2018,North America,United States,Public,NA
+ERR2206023,ESC_IA4013AA,Livestock,Poultry,2012,Europe,Germany,Public,NA
+ERR2205998,ESC_IA4038AA,Livestock,Poultry,2012,Europe,Germany,Public,NA
+ERR2205997,ESC_IA4039AA,Livestock,Poultry,2012,Europe,Germany,Public,NA
+ERR2205972,ESC_IA4064AA,Human,Human Other,2014,Europe,Germany,Public,NA
+ERR2205967,ESC_IA4069AA,Human,Human Other,2013,Europe,Germany,Public,NA
+ERR2205913,ESC_IA4123AA,Livestock,Poultry,2012,Europe,Germany,Public,NA
+SRR6764213,ESC_IA4408AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR6764074,ESC_IA4428AA,Livestock,Bovine,2016,South America,Chile,Public,NA
+SRR6764085,ESC_IA4439AA,Livestock,Bovine,2016,South America,Chile,Public,NA
+SRR6764086,ESC_IA4440AA,Livestock,Bovine,2016,South America,Chile,Public,NA
+SRR6764105,ESC_IA4459AA,Livestock,Bovine,2016,South America,Chile,Public,NA
+SRR6764128,ESC_IA4482AA,Livestock,Bovine,2016,South America,Chile,Public,NA
+SRR6764142,ESC_IA4496AA,Livestock,Bovine,2016,South America,Chile,Public,NA
+SRR6787576,ESC_IA4710AA,Livestock,Bovine,2006,North America,United States,Public,NA
+SRR6810047,ESC_IA4944AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR6818532,ESC_IA5157AA,Human,Human Other,2013,Europe,Netherlands,Public,NA
+SRR6818568,ESC_IA5185AA,Human,Human Other,2012,Europe,Netherlands,Public,NA
+SRR6844253,ESC_IA5583AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR6844212,ESC_IA5588AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR6876312,ESC_IA5707AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR6876311,ESC_IA5708AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR6930653,ESC_IA6327AA,Companion Animal,Equine,2000,North America,United States,Public,NA
+SRR6933174,ESC_IA6337AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR6973073,ESC_IA6613AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR6973045,ESC_IA6616AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR6986355,ESC_IA6636AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7009031,ESC_IA6724AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7065404,ESC_IA7303AA,Livestock,Bovine,2000,South America,Argentina,Public,NA
+SRR7064595,ESC_IA7319AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR7084525,ESC_IA7607AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR7095770,ESC_IA7824AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7095754,ESC_IA7826AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7130336,ESC_IA7985AA,Companion Animal,Canine,2017,North America,United States,Public,NA
+SRR7135463,ESC_IA8118AA,Livestock,Porcine,1978,North America,United States,Public,NA
+SRR7135448,ESC_IA8121AA,Livestock,Poultry,1981,North America,United States,Public,NA
+SRR7140597,ESC_IA8145AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7140583,ESC_IA8153AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7140568,ESC_IA8159AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR7140620,ESC_IA8163AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7140611,ESC_IA8165AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7154649,ESC_IA8340AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7192408,ESC_IA9376AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR7221526,ESC_IA9988AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7230146,ESC_JA0262AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR7257344,ESC_JA1308AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7284856,ESC_JA2073AA,Livestock,Bovine,2002,North America,United States,Public,NA
+SRR7360586,ESC_JA3278AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7360580,ESC_JA3284AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7360579,ESC_JA3285AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR7360399,ESC_JA3290AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7439284,ESC_JA4303AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7439672,ESC_JA4305AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR7468981,ESC_JA5167AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7499269,ESC_JA6028AA,Livestock,Poultry,2012,South America,Brazil,Public,NA
+SRR7501033,ESC_JA6463AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR7500862,ESC_JA6468AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7527934,ESC_JA6510AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7543358,ESC_JA6673AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7543308,ESC_JA6684AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7615132,ESC_JA6954AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7624308,ESC_JA6994AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7638129,ESC_JA7479AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR7647877,ESC_JA7888AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR7693501,ESC_JA8454AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7693499,ESC_JA8455AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7707893,ESC_JA8496AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR7707885,ESC_JA8499AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR7707874,ESC_JA8508AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7724534,ESC_JA8846AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7749328,ESC_JA9415AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR7754589,ESC_JA9470AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7754588,ESC_JA9471AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7789472,ESC_KA0018AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7786660,ESC_KA0120AA,Wild Animal,Avian,2016,North America,United States,Public,NA
+SRR7786651,ESC_KA0129AA,Wild Animal,Avian,2016,North America,United States,Public,NA
+SRR7828666,ESC_KA0471AA,Human,ExPEC,2017,Oceania,Australia,Public,NA
+SRR7828700,ESC_KA0501AA,Human,ExPEC,2016,Oceania,Australia,Public,NA
+SRR7828790,ESC_KA0582AA,Human,ExPEC,2016,Asia,Singapore,Public,NA
+SRR7866010,ESC_KA1550AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR7866003,ESC_KA1553AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7866002,ESC_KA1554AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7870883,ESC_KA1713AA,Livestock,Bovine,1975,North America,United States,Public,NA
+SRR7870880,ESC_KA1716AA,Livestock,Bovine,1975,North America,United States,Public,NA
+SRR7884476,ESC_KA1867AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7883782,ESC_KA1868AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7896464,ESC_KA2184AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7903256,ESC_KA2260AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7940211,ESC_KA2315AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR7940182,ESC_KA2323AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7940169,ESC_KA2326AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7940165,ESC_KA2330AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR7940157,ESC_KA2338AA,Livestock,Bovine,2018,North America,United States,Public,NA
+ERR2820187,ESC_KA2807AA,Livestock,Porcine,2015,Europe,Denmark,Public,NA
+SRR8050354,ESC_KA3274AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8050353,ESC_KA3275AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8050352,ESC_KA3276AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8080760,ESC_KA3536AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR8095893,ESC_KA3677AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR8095905,ESC_KA3689AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR8095918,ESC_KA3702AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095949,ESC_KA3733AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR8095598,ESC_KA3797AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095638,ESC_KA3837AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095675,ESC_KA3874AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR8095677,ESC_KA3876AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095680,ESC_KA3879AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095707,ESC_KA3906AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095722,ESC_KA3921AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095730,ESC_KA3929AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095740,ESC_KA3939AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095770,ESC_KA3969AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR8095810,ESC_KA4009AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR8095811,ESC_KA4010AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095858,ESC_KA4057AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095862,ESC_KA4061AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095417,ESC_KA4212AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095422,ESC_KA4217AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095426,ESC_KA4221AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR8095441,ESC_KA4236AA,Livestock,Porcine,2017,North America,United States,Public,NA
+SRR8095461,ESC_KA4256AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR8095480,ESC_KA4275AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095502,ESC_KA4297AA,Livestock,Poultry,2017,North America,United States,Public,NA
+SRR8095565,ESC_KA4360AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR8157255,ESC_KA5030AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8157249,ESC_KA5035AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR8172608,ESC_KA5172AA,Human,Human Other,2018,Europe,United Kingdom,Public,NA
+SRR8236526,ESC_KA5812AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8236506,ESC_KA5817AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR8236501,ESC_KA5818AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR8236499,ESC_KA5820AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8236496,ESC_KA5821AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR8236495,ESC_KA5822AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR8236490,ESC_KA5825AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8270033,ESC_KA7671AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8270014,ESC_KA7682AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8313111,ESC_KA8252AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8313106,ESC_KA8257AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8310834,ESC_KA8272AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR8310825,ESC_KA8275AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8310809,ESC_KA8280AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR8310802,ESC_KA8282AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR8350825,ESC_KA8351AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR8350814,ESC_KA8362AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8350812,ESC_KA8364AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8364830,ESC_KA8461AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8381461,ESC_KA8537AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8381451,ESC_KA8541AA,Livestock,Porcine,2018,North America,United States,Public,NA
+ERR2987552,ESC_KA8687AA,Livestock,Bovine,2014,Europe,Netherlands,Public,NA
+ERR2987551,ESC_KA8688AA,Livestock,Bovine,2014,Europe,Netherlands,Public,NA
+ERR2987547,ESC_KA8692AA,Livestock,Bovine,2014,Europe,Netherlands,Public,NA
+ERR2987536,ESC_KA8703AA,Livestock,Bovine,2014,Europe,Netherlands,Public,NA
+ERR2987523,ESC_KA8716AA,Livestock,Bovine,2014,Europe,Netherlands,Public,NA
+SRR8397785,ESC_KA8948AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8397548,ESC_KA8989AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8397529,ESC_KA8997AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8397488,ESC_KA9004AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8505933,ESC_LA1122AA,Human,ExPEC,2014,Europe,United Kingdom,Public,NA
+SRR8544233,ESC_LA1947AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR7693678,ESC_LA2389AA,Human,Human Other,2014,South America,Ecuador,Public,NA
+SRR6724040,ESC_LA5019AA,Companion Animal,Canine,2015,Europe,Germany,Public,NA
+SRR6724042,ESC_LA5021AA,Companion Animal,Canine,2015,Europe,Germany,Public,NA
+SRR6724044,ESC_LA5023AA,Companion Animal,Canine,2015,Europe,Germany,Public,NA
+SRR6724076,ESC_LA5050AA,Companion Animal,Canine,2015,Europe,Germany,Public,NA
+SRR8582168,ESC_LA9321AA,Companion Animal,Canine,2018,North America,United States,Public,NA
+SRR8592581,ESC_LA9479AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8592560,ESC_LA9484AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR8643749,ESC_LA9807AA,Livestock,Bovine,1982,North America,United States,Public,NA
+SRR8649976,ESC_LA9972AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR8649967,ESC_LA9981AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR8649953,ESC_LA9983AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR8649951,ESC_LA9985AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR8649943,ESC_LA9993AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR8649942,ESC_LA9994AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR8649793,ESC_MA0015AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR8533535,ESC_MA0234AA,Human,ExPEC,2013,North America,Canada,Public,NA
+SRR8533708,ESC_MA0407AA,Human,ExPEC,2012,North America,Canada,Public,NA
+SRR8663235,ESC_MA0684AA,Livestock,Livestock Other,2016,North America,United States,Public,NA
+SRR8663222,ESC_MA0689AA,Livestock,Livestock Other,2016,North America,United States,Public,NA
+SRR8663204,ESC_MA0692AA,Livestock,Livestock Other,2016,North America,United States,Public,NA
+SRR8699412,ESC_MA0948AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR8723124,ESC_MA1023AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR8723084,ESC_MA1032AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR8721839,ESC_MA1035AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR8745375,ESC_MA1303AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR8754963,ESC_MA1354AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR8754953,ESC_MA1364AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR8778441,ESC_MA1560AA,Livestock,Livestock Other,2016,North America,United States,Public,NA
+ERR3140352,ESC_MA1649AA,Human,ExPEC,2013,Europe,Norway,Public,NA
+SRR8782365,ESC_MA1800AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR8784424,ESC_MA1862AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR8792517,ESC_MA1939AA,Livestock,Ovine,2018,Africa,South Africa,Public,NA
+SRR8833926,ESC_MA2554AA,Livestock,Livestock Other,2016,North America,United States,Public,NA
+SRR8832736,ESC_MA2569AA,Human,Human Other,2019,Europe,United Kingdom,Public,NA
+SRR8838615,ESC_MA2620AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR8838540,ESC_MA2627AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR8838499,ESC_MA2633AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR8839655,ESC_MA2661AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR8868852,ESC_MA3035AA,Companion Animal,Canine,2018,North America,Canada,Public,NA
+SRR8996056,ESC_MA5056AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR8996048,ESC_MA5060AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR8996713,ESC_MA5083AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR9017025,ESC_MA5353AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR9029858,ESC_MA5444AA,Companion Animal,Canine,2018,North America,United States,Public,NA
+SRR9029559,ESC_MA5451AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR9041545,ESC_MA5572AA,Livestock,Ovine,2018,Africa,South Africa,Public,NA
+SRR9049544,ESC_MA5795AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR9048670,ESC_MA5810AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR9048668,ESC_MA5812AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR9048651,ESC_MA5829AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR9066949,ESC_MA6121AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR9066705,ESC_MA6160AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR9108421,ESC_MA6986AA,Livestock,Ovine,2018,Africa,South Africa,Public,NA
+SRR9105610,ESC_MA6992AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR9105600,ESC_MA7001AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR9105563,ESC_MA7006AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR9105559,ESC_MA7010AA,Livestock,Poultry,2019,North America,United States,Public,NA
+ERR3333607,ESC_MA7019AA,Livestock,Bovine,2010,Europe,Germany,Public,NA
+ERR3333606,ESC_MA7020AA,Livestock,Bovine,2010,Europe,Germany,Public,NA
+ERR3333594,ESC_MA7032AA,Livestock,Bovine,2010,Europe,France,Public,NA
+ERR3333582,ESC_MA7044AA,Livestock,Bovine,2007,Europe,Germany,Public,NA
+ERR3333550,ESC_MA7076AA,Livestock,Bovine,2004,Europe,Germany,Public,NA
+ERR3333534,ESC_MA7092AA,Livestock,Bovine,2010,Europe,France,Public,NA
+ERR3333512,ESC_MA7114AA,Livestock,Bovine,2010,Europe,France,Public,NA
+ERR3333503,ESC_MA7123AA,Livestock,Bovine,2007,Europe,Germany,Public,NA
+ERR3333501,ESC_MA7125AA,Livestock,Bovine,2007,Europe,Germany,Public,NA
+ERR3330562,ESC_MA7342AA,Livestock,Bovine,2016,Africa,Kenya,Public,NA
+ERR3330300,ESC_MA7604AA,Livestock,Ovine,2016,Africa,Kenya,Public,NA
+ERR3330297,ESC_MA7607AA,Livestock,Ovine,2016,Africa,Kenya,Public,NA
+ERR3330144,ESC_MA7752AA,Livestock,Poultry,2015,Africa,Kenya,Public,NA
+ERR3329361,ESC_MA7844AA,Livestock,Poultry,2015,Africa,Kenya,Public,NA
+ERR3329258,ESC_MA7944AA,Livestock,Bovine,2015,Africa,Kenya,Public,NA
+ERR3329001,ESC_MA8181AA,Livestock,Porcine,2016,Africa,Kenya,Public,NA
+ERR3328932,ESC_MA8250AA,Livestock,Poultry,2016,Africa,Kenya,Public,NA
+SRR9139850,ESC_MA9028AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR9160366,ESC_MA9517AA,Livestock,Bovine,1982,North America,United States,Public,NA
+SRR9160036,ESC_MA9559AA,Livestock,Bovine,1982,North America,United States,Public,NA
+SRR9201949,ESC_NA0122AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR9214238,ESC_NA0570AA,Livestock,Livestock Other,2016,North America,United States,Public,NA
+SRR9265296,ESC_NA0636AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR9265273,ESC_NA0643AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR9265272,ESC_NA0644AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR9262889,ESC_NA0650AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR9324322,ESC_NA2569AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR9331790,ESC_NA2595AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR9593782,ESC_NA2821AA,Livestock,Bovine,2003,North America,United States,Public,NA
+SRR9615914,ESC_NA3664AA,Human,ExPEC,2016,Europe,France,Public,NA
+SRR9616006,ESC_NA3744AA,Human,ExPEC,2017,Europe,France,Public,NA
+SRR9648216,ESC_NA4211AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR9648203,ESC_NA4220AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR9648194,ESC_NA4227AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR9646352,ESC_NA4302AA,Livestock,Porcine,2001,North America,United States,Public,NA
+SRR9823032,ESC_NA5628AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR9823029,ESC_NA5630AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR9824445,ESC_NA5680AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR9734567,ESC_NA5903AA,Human,Human Other,2015,Oceania,Australia,Public,NA
+SRR9852823,ESC_NA6093AA,Livestock,Poultry,2018,North America,United States,Public,NA
+SRR9852824,ESC_NA6094AA,Livestock,Porcine,2018,North America,United States,Public,NA
+SRR9875321,ESC_NA6279AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR9875276,ESC_NA6287AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR9914165,ESC_NA6441AA,Livestock,Porcine,1986,North America,United States,Public,NA
+SRR9914244,ESC_NA6520AA,Livestock,Bovine,1990,North America,United States,Public,NA
+SRR9914256,ESC_NA6532AA,Livestock,Bovine,1980,North America,United States,Public,NA
+SRR9913803,ESC_NA6579AA,Livestock,Bovine,2004,North America,United States,Public,NA
+SRR9913823,ESC_NA6599AA,Livestock,Bovine,1975,North America,United States,Public,NA
+SRR9913825,ESC_NA6601AA,Livestock,Poultry,2002,North America,Mexico,Public,NA
+SRR9913849,ESC_NA6625AA,Livestock,Bovine,1985,North America,United States,Public,NA
+SRR9913889,ESC_NA6665AA,Livestock,Bovine,1977,North America,United States,Public,NA
+SRR9913910,ESC_NA6686AA,Livestock,Poultry,2002,North America,Mexico,Public,NA
+SRR9913955,ESC_NA6731AA,Livestock,Bovine,2012,North America,United States,Public,NA
+SRR9914014,ESC_NA6790AA,Livestock,Bovine,2006,North America,United States,Public,NA
+SRR9914058,ESC_NA6834AA,Livestock,Bovine,1988,North America,United States,Public,NA
+SRR9914065,ESC_NA6841AA,Livestock,Bovine,1972,North America,United States,Public,NA
+SRR9962797,ESC_NA7464AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR9962769,ESC_NA7481AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR9973073,ESC_NA7554AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10040861,ESC_NA9105AA,Livestock,Bovine,2019,North America,Canada,Public,NA
+SRR10040058,ESC_NA9107AA,Livestock,Bovine,2019,North America,Canada,Public,NA
+SRR10049720,ESC_NA9177AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR10049353,ESC_NA9215AA,Livestock,Bovine,2017,North America,United States,Public,NA
+SRR10024307,ESC_OA0271AA,Livestock,Poultry,2016,North America,United States,Public,NA
+SRR10098865,ESC_OA0281AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR10098854,ESC_OA0291AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR10107308,ESC_OA0365AA,Livestock,Bovine,2017,Africa,Mozambique,Public,NA
+SRR10107309,ESC_OA0366AA,Livestock,Bovine,2017,Africa,Mozambique,Public,NA
+SRR10107310,ESC_OA0367AA,Livestock,Bovine,2017,Africa,Mozambique,Public,NA
+SRR10107311,ESC_OA0368AA,Livestock,Bovine,2017,Africa,Mozambique,Public,NA
+SRR10107312,ESC_OA0369AA,Livestock,Bovine,2017,Africa,Mozambique,Public,NA
+SRR10107323,ESC_OA0380AA,Livestock,Bovine,2017,Africa,Mozambique,Public,NA
+SRR10107328,ESC_OA0385AA,Livestock,Bovine,2017,Africa,Mozambique,Public,NA
+SRR10107330,ESC_OA0387AA,Livestock,Bovine,2017,Africa,Mozambique,Public,NA
+SRR10107331,ESC_OA0388AA,Livestock,Bovine,2017,Africa,Mozambique,Public,NA
+SRR10140404,ESC_OA2011AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10140394,ESC_OA2013AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10139813,ESC_OA2021AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10139656,ESC_OA2023AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10152561,ESC_OA2167AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10186409,ESC_OA3147AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10187053,ESC_OA3160AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR10186998,ESC_OA3164AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10186984,ESC_OA3177AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR10240841,ESC_OA4275AA,Companion Animal,Canine,2019,North America,United States,Public,NA
+SRR10298226,ESC_OA4810AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10298225,ESC_OA4811AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10267810,ESC_OA5191AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10258879,ESC_OA5240AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR10247475,ESC_OA5430AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR10343262,ESC_OA5951AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10325511,ESC_OA5982AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10357563,ESC_OA6353AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR10360576,ESC_OA6387AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR10420697,ESC_OA7837AA,Livestock,Poultry,2019,Africa,Nigeria,Public,NA
+SRR10437364,ESC_OA8097AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10434797,ESC_OA8116AA,Livestock,Bovine,2019,North America,United States,Public,NA
+SRR7874650,ESC_PA1258AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR7874651,ESC_PA1259AA,Livestock,Poultry,2013,North America,United States,Public,NA
+SRR10503802,ESC_PA3797AA,Livestock,Poultry,2019,North America,United States,Public,NA
+SRR10503790,ESC_PA3809AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR10502058,ESC_PA3819AA,Livestock,Porcine,2019,North America,United States,Public,NA
+SRR10501703,ESC_PA3831AA,Livestock,Poultry,2019,North America,United States,Public,NA
+ERR3330254,ESC_MA7270AA,Human,Human Other,2015,Africa,Kenya,Public,NA
+ERR3330583,ESC_MA7321AA,Human,Human Other,2016,Africa,Kenya,Public,NA
+ERR3330459,ESC_MA7445AA,Human,Human Other,2016,Africa,Kenya,Public,NA
+ERR3330277,ESC_MA7627AA,Livestock,Bovine,2016,Africa,Kenya,Public,NA
+ERR3330200,ESC_MA7696AA,Human,Human Other,2015,Africa,Kenya,Public,NA
+ERR3329261,ESC_MA7941AA,Livestock,Bovine,2015,Africa,Kenya,Public,NA
+ERR3329074,ESC_MA8108AA,Human,Human Other,2015,Africa,Kenya,Public,NA
+ERR3328970,ESC_MA8212AA,Human,Human Other,2016,Africa,Kenya,Public,NA
+ERR3328953,ESC_MA8229AA,Human,Human Other,2016,Africa,Kenya,Public,NA
+ERR3328943,ESC_MA8239AA,Human,Human Other,2016,Africa,Kenya,Public,NA
+ERR3328879,ESC_MA8303AA,Human,Human Other,2016,Africa,Kenya,Public,NA
+ERR3328477,ESC_MA8630AA,Human,Human Other,2016,Africa,Kenya,Public,NA
+ERR3328221,ESC_MA8849AA,Human,Human Other,2015,Africa,Kenya,Public,NA
+SRR9965262,ESC_NA7512AA,Livestock,Bovine,2016,North America,United States,Public,NA
+SRR10072308,ESC_NA9791AA,Livestock,Bovine,2016,North America,United States,Public,NA
+SRR10072297,ESC_NA9800AA,Livestock,Bovine,2016,North America,United States,Public,NA
+SRR10156126,ESC_OA2690AA,Livestock,Bovine,2016,North America,United States,Public,NA
+SRR10156121,ESC_OA2693AA,Livestock,Bovine,2016,North America,United States,Public,NA
+SRR10225109,ESC_OA3835AA,Livestock,Bovine,2016,North America,United States,Public,NA
+SRR10225101,ESC_OA3843AA,Livestock,Bovine,2016,North America,United States,Public,NA
+SRR10225098,ESC_OA3846AA,Livestock,Bovine,2016,North America,United States,Public,NA
+IBIS_34,ESC_PA8201AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+IBIS_40,ESC_PA8203AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+2203,ESC_PA8205AA,Wild Animal,Avian,2012,North America,Canada,Collaborator,This publication
+1568m1,ESC_PA8207AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+Ec4011,ESC_PA8208AA,Wild Animal,Avian,2013,Europe,Sweden,Collaborator,This publication
+HP131,ESC_PA8211AA,Wild Animal,Avian,2010,Europe,Czech Republic,Collaborator,This publication
+IMT17513,ESC_PA8212AA,Companion Animal,Canine,2008,Europe,Germany,Collaborator,This publication
+IMT17550,ESC_PA8213AA,Companion Animal,Canine,2008,Europe,Germany,Collaborator,This publication
+CE70N,ESC_PA8215AA,Wild Animal,Avian,2012,North America,United States,Collaborator,This publication
+12zCTX,ESC_PA8225AA,Wild Animal,Other Mammal,2010,Europe,Czech Republic,Collaborator,This publication
+1657m1,ESC_PA8227AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+2063,ESC_PA8229AA,Wild Animal,Avian,2012,North America,Canada,Collaborator,This publication
+1605m1,ESC_PA8230AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+HP149,ESC_PA8232AA,Wild Animal,Avian,2010,Europe,Czech Republic,Collaborator,This publication
+HP71,ESC_PA8235AA,Wild Animal,Avian,2010,Europe,Czech Republic,Collaborator,This publication
+IBIS_38,ESC_PA8236AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+IBIS_42,ESC_PA8237AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+IBIS_27,ESC_PA8240AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+HP40,ESC_PA8242AA,Wild Animal,Avian,2010,Europe,Czech Republic,Collaborator,This publication
+CE1606,ESC_PA8244AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+2078,ESC_PA8245AA,Wild Animal,Avian,2012,North America,Canada,Collaborator,This publication
+IBIS_37,ESC_PA8246AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+IBIS_33,ESC_PA8247AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+IBIS_31,ESC_PA8248AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+HPG79,ESC_PA8251AA,Wild Animal,Avian,2010,Europe,Poland,Collaborator,This publication
+1680m1,ESC_PA8252AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+CE1657,ESC_PA8253AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+1553m1,ESC_PA8255AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+IBIS_25,ESC_PA8257AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+IMT17548,ESC_PA8258AA,Companion Animal,Canine,2008,Europe,Germany,Collaborator,This publication
+IBIS_61,ESC_PA8263AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+IBIS_54,ESC_PA8264AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+IMT18614,ESC_PA8268AA,Companion Animal,Canine,2009,Europe,Germany,Collaborator,This publication
+IBIS_53,ESC_PA8269AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+IBIS_59,ESC_PA8378AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+HP150,ESC_PA8379AA,Wild Animal,Avian,2010,Europe,Czech Republic,Collaborator,This publication
+2183,ESC_PA8386AA,Wild Animal,Avian,2012,North America,Canada,Collaborator,This publication
+HP144,ESC_PA8389AA,Wild Animal,Avian,2010,Europe,Czech Republic,Collaborator,This publication
+2067,ESC_PA8390AA,Wild Animal,Avian,2012,North America,Canada,Collaborator,This publication
+4438,ESC_PA8391AA,Wild Animal,Avian,2012,North America,Canada,Collaborator,This publication
+HP90,ESC_PA8392AA,Wild Animal,Avian,2010,Europe,Czech Republic,Collaborator,This publication
+IBIS_45,ESC_PA8396AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+CE145N,ESC_PA8397AA,Wild Animal,Avian,2012,North America,United States,Collaborator,This publication
+IMT17572,ESC_PA8406AA,Companion Animal,Feline,2008,Europe,Germany,Collaborator,This publication
+IBIS_56,ESC_PA8407AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+HP41,ESC_PA8411AA,Wild Animal,Avian,2010,Europe,Czech Republic,Collaborator,This publication
+1560m1,ESC_PA8417AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+CE1568,ESC_PA8419AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+HPG4,ESC_PA8421AA,Wild Animal,Avian,2010,Europe,Poland,Collaborator,This publication
+IBIS_28,ESC_PA8424AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+30CTX,ESC_PA8428AA,Wild Animal,Other Mammal,2010,Europe,Czech Republic,Collaborator,This publication
+1585m1,ESC_PA8429AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+IBIS_55,ESC_PA8430AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+HPG98,ESC_PA8434AA,Wild Animal,Avian,2010,Europe,Poland,Collaborator,This publication
+IMT18579,ESC_PA8435AA,Companion Animal,Feline,2009,Europe,Germany,Collaborator,This publication
+CE701N,ESC_PA8436AA,Wild Animal,Avian,2012,North America,United States,Collaborator,This publication
+IBIS_39,ESC_PA8437AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+IBIS_52,ESC_PA8441AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+CE91,ESC_PA8442AA,Wild Animal,Avian,2012,North America,United States,Collaborator,This publication
+IBIS_36,ESC_PA8444AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+AVC193,ESC_PA8445AA,Companion Animal,Avian,2011,Oceania,Australia,In-house,30672731
+IBIS_43,ESC_PA8446AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+IBIS_57,ESC_PA8453AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+4381,ESC_PA8457AA,Wild Animal,Avian,2012,North America,Canada,Collaborator,This publication
+CE627,ESC_PA8458AA,Wild Animal,Avian,2012,North America,United States,Collaborator,This publication
+1824H,ESC_PA8459AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+HP107,ESC_PA8462AA,Wild Animal,Avian,2010,Europe,Czech Republic,Collaborator,This publication
+IMT20106,ESC_PA8463AA,Companion Animal,Canine,2009,Europe,Germany,Collaborator,This publication
+IBIS_35,ESC_PA8464AA,Wild Animal,Avian,2012,Oceania,Australia,In-house,32519939
+HP89,ESC_PA8468AA,Wild Animal,Avian,2010,Europe,Czech Republic,Collaborator,This publication
+HP79,ESC_PA8472AA,Wild Animal,Avian,2010,Europe,Czech Republic,Collaborator,This publication
+CE1605,ESC_PA8477AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+4365,ESC_PA8480AA,Wild Animal,Avian,2012,North America,Canada,Collaborator,This publication
+1541m1,ESC_PA8482AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+1586m1,ESC_PA8483AA,Wild Animal,Avian,2012,Oceania,Australia,Collaborator,This publication
+Vlees_ESBL_2013_0170,ESC_PA8204AA,Livestock,Poultry,2013,Europe,Netherlands,Collaborator,This publication
+RE8,ESC_PA8218AA,Food,Plant,2016,Europe,Germany,In-house,32063888
+RE1,ESC_PA8219AA,Food,Plant,2016,Europe,Germany,In-house,32063888
+EK2.29,ESC_PA8224AA,Food,Plant,2017,Europe,Germany,In-house,32063888
+EK3.44,ESC_PA8238AA,Food,Plant,2017,Europe,Germany,In-house,32063888
+RE12,ESC_PA8272AA,Food,Plant,2016,Europe,Germany,In-house,32063888
+RE2,ESC_PA8276AA,Food,Plant,2016,Europe,Germany,In-house,32063888
+SafeFoodERA_ESBL_375,ESC_PA8277AA,Livestock,Poultry,2007,Europe,Netherlands,Collaborator,This publication
+RE14,ESC_PA8278AA,Food,Plant,2016,Europe,Germany,In-house,32063888
+RE13,ESC_PA8377AA,Food,Plant,2016,Europe,Germany,In-house,32063888
+RE18,ESC_PA8393AA,Food,Plant,2016,Europe,Germany,In-house,32063888
+Vlees_ESBL_2014_1504,ESC_PA8399AA,Livestock,Poultry,2014,Europe,Netherlands,Collaborator,This publication
+Vlees_ESBL_2013_1429,ESC_PA8401AA,Livestock,Porcine,2013,Europe,Netherlands,Collaborator,This publication
+Vlees_ESBL_2013_1236,ESC_PA8408AA,Livestock,Bovine,2013,Europe,Netherlands,Collaborator,This publication
+Vlees_ESBL_2012_133,ESC_PA8410AA,Livestock,Bovine,2012,Europe,Netherlands,Collaborator,This publication
+SafeFoodERA_ESBL_423,ESC_PA8414AA,Livestock,Poultry,2006,Europe,Netherlands,Collaborator,This publication
+RE16,ESC_PA8415AA,Food,Plant,2016,Europe,Germany,In-house,32063888
+RE3,ESC_PA8416AA,Food,Plant,2016,Europe,Germany,In-house,32063888
+CFL3ctx,ESC_PA8440AA,Livestock,Ovine,2018,Europe,Sweden,Collaborator,This publication
+RE5,ESC_PA8466AA,Food,Plant,2016,Europe,Germany,In-house,32063888
+E0407,ESC_PA8474AA,Livestock,Poultry,2013,Europe,Netherlands,Collaborator,This publication
+RE15,ESC_PA8484AA,Food,Plant,2016,Europe,Germany,In-house,32063888
+RE17,ESC_PA8485AA,Food,Plant,2016,Europe,Germany,In-house,32063888
+SH5c,ESC_PA8202AA,Environment,Wastewater,2016,Europe,Czech Republic,Collaborator,This publication
+SH30c,ESC_PA8222AA,Environment,Wastewater,2016,Europe,Czech Republic,Collaborator,This publication
+MI-12-654,ESC_PA8262AA,Environment,Water,2012,Europe,Sweden,Collaborator,This publication
+SS_3_G3,ESC_PA8273AA,Environment,Water,2016,Europe,Germany,Collaborator,This publication
+MI-12-604,ESC_PA8376AA,Environment,Water,2012,Europe,Sweden,Collaborator,This publication
+SS_4_G3,ESC_PA8384AA,Environment,Wastewater,2017,Europe,Germany,Collaborator,This publication
+SS_5_H8,ESC_PA8398AA,Environment,Wastewater,2016,Europe,Germany,Collaborator,This publication
+SS_5_E10,ESC_PA8400AA,Environment,Wastewater,2017,Europe,Germany,Collaborator,This publication
+SS_5_H2,ESC_PA8402AA,Environment,Wastewater,2017,Europe,Germany,Collaborator,This publication
+SS_5_E11,ESC_PA8409AA,Environment,Wastewater,2017,Europe,Germany,Collaborator,This publication
+SS_2_H5,ESC_PA8412AA,Environment,Wastewater,2016,Europe,Germany,Collaborator,This publication
+SH12c,ESC_PA8420AA,Environment,Wastewater,2016,Europe,Czech Republic,Collaborator,This publication
+SS_4_H10,ESC_PA8423AA,Environment,Wastewater,2017,Europe,Germany,Collaborator,This publication
+SS_2_G2,ESC_PA8431AA,Environment,Wastewater,2016,Europe,Germany,Collaborator,This publication
+SS_4_E2,ESC_PA8438AA,Environment,Water,2017,Europe,Germany,Collaborator,This publication
+MI-12-427,ESC_PA8471AA,Environment,Water,2012,Europe,Sweden,Collaborator,This publication
+MI-12-184,ESC_PA8476AA,Environment,Water,2012,Europe,Sweden,Collaborator,This publication
+SS_5_B4,ESC_PA8479AA,Environment,Wastewater,2017,Europe,Germany,Collaborator,This publication
+SS_4_G5,ESC_PA8481AA,Environment,Water,2017,Europe,Germany,Collaborator,This publication
+9162ESCO,ESC_PA8157AA,Human,ExPEC,2011,Europe,Czech Republic,Collaborator,This publication
+ESBL20170358,ESC_PA8158AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+ESBL20160204,ESC_PA8210AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+ESBL20170243,ESC_PA8217AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+HOS48,ESC_PA8231AA,Human,ExPEC,2006,Oceania,Australia,In-house,33206038
+Ec1493,ESC_PA8239AA,Human,ExPEC,2011,Europe,Sweden,Collaborator,This publication
+ESBL20180309,ESC_PA8241AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+ESBL20140011,ESC_PA8243AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+SafeFoodERA_ESBL_045,ESC_PA8279AA,Human,ExPEC,2009,Europe,Netherlands,Collaborator,This publication
+ESBL20180248,ESC_PA8383AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+2009_49,ESC_PA8385AA,Human,ExPEC,2009,Oceania,Australia,In-house,29966679
+ESBL20150330,ESC_PA8403AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+ESBL20150343,ESC_PA8418AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+SafeFoodERA_ESBL_101,ESC_PA8426AA,Human,ExPEC,2009,Europe,Netherlands,Collaborator,This publication
+SafeFoodERA_ESBL_097,ESC_PA8427AA,Human,ExPEC,2009,Europe,Netherlands,Collaborator,This publication
+ESBL20170337,ESC_PA8432AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+ESBL20140168,ESC_PA8443AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+ESBL20170423,ESC_PA8449AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+Eco1211,ESC_PA8450AA,Human,ExPEC,2011,Europe,Sweden,Collaborator,This publication
+ESBL20140304,ESC_PA8460AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+ESBL20140051,ESC_PA8465AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+ESBL20160365,ESC_PA8473AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+ESBL20160351,ESC_PA8486AA,Human,ExPEC,2019,Europe,Denmark,Collaborator,This publication
+ESBL_Ecoli_2.64,ESC_PA8214AA,Livestock,Poultry,2014,Europe,Netherlands,Collaborator,This publication
+Liv26,ESC_PA8216AA,Livestock,Poultry,2011,Europe,Romania,In-house,31681191
+142661,ESC_PA8220AA,Livestock,Bovine,2015,Europe,Germany,Collaborator,This publication
+32153,ESC_PA8223AA,Livestock,Equine,2012,Europe,France,Collaborator,This publication
+111396,ESC_PA8226AA,Livestock,Bovine,2011,Europe,Germany,Collaborator,This publication
+31479,ESC_PA8228AA,Livestock,Bovine,2012,Europe,France,Collaborator,This publication
+26497,ESC_PA8233AA,Livestock,Bovine,2010,Europe,France,Collaborator,This publication
+29817,ESC_PA8249AA,Livestock,Bovine,2012,Europe,France,Collaborator,This publication
+142897,ESC_PA8250AA,Livestock,Bovine,2015,Europe,Germany,Collaborator,This publication
+27116,ESC_PA8256AA,Livestock,Bovine,2011,Europe,France,Collaborator,This publication
+Liv24,ESC_PA8259AA,Livestock,Poultry,2011,Europe,Romania,In-house,31681191
+IMT21439,ESC_PA8260AA,Livestock,Equine,2010,Europe,Germany,Collaborator,This publication
+IMT24109,ESC_PA8261AA,Livestock,Equine,2010,Europe,Germany,Collaborator,This publication
+IMT24815,ESC_PA8265AA,Livestock,Bovine,2011,Europe,Germany,Collaborator,This publication
+IMT19550,ESC_PA8266AA,Livestock,Equine,2009,Europe,Germany,Collaborator,This publication
+IMT18276,ESC_PA8267AA,Livestock,Bovine,2009,Europe,Germany,Collaborator,This publication
+OT_ESBL_1040,ESC_PA8270AA,Livestock,Bovine,2012,Europe,Netherlands,Collaborator,This publication
+OT_ESBL_0359,ESC_PA8275AA,Livestock,Bovine,2011,Europe,Netherlands,Collaborator,This publication
+103764,ESC_PA8380AA,Livestock,Bovine,2010,Europe,Germany,Collaborator,This publication
+30372,ESC_PA8381AA,Livestock,Bovine,2012,Europe,France,Collaborator,This publication
+Liv89,ESC_PA8388AA,Livestock,Poultry,2011,Europe,Romania,In-house,31681191
+TZ97,ESC_PA8394AA,Livestock,Porcine,2017,Oceania,Australia,In-house,32512857
+TZ124,ESC_PA8395AA,Livestock,Porcine,2017,Oceania,Australia,In-house,32512857
+20098,ESC_PA8405AA,Livestock,Bovine,2007,Europe,France,Collaborator,This publication
+OT_ESBL_0441,ESC_PA8413AA,Livestock,Bovine,2011,Europe,Netherlands,Collaborator,This publication
+ESBL_Ecoli_4.03,ESC_PA8422AA,Livestock,Bovine,2014,Europe,Netherlands,Collaborator,This publication
+CN35ctx,ESC_PA8425AA,Livestock,Bovine,2018,Europe,Sweden,Collaborator,This publication
+29184,ESC_PA8433AA,Livestock,Bovine,2012,Europe,France,Collaborator,This publication
+32205,ESC_PA8447AA,Livestock,Bovine,2012,Europe,France,Collaborator,This publication
+AD742,ESC_PA8448AA,Livestock,Bovine,2012,Europe,Sweden,Collaborator,This publication
+47711,ESC_PA8454AA,Livestock,Bovine,2017,Europe,France,Collaborator,This publication
+3523,ESC_PA8455AA,Livestock,Porcine,2013,Europe,Czech Republic,Collaborator,This publication
+SafeFoodERA_ESBL_582,ESC_PA8456AA,Livestock,Bovine,2008,Europe,United Kingdom,Collaborator,This publication
+AD741,ESC_PA8467AA,Livestock,Bovine,2012,Europe,Sweden,Collaborator,This publication
+Liv48,ESC_PA8469AA,Livestock,Poultry,2011,Europe,Romania,In-house,31681191
+32068,ESC_PA8470AA,Livestock,Bovine,2012,Europe,France,Collaborator,This publication
+28137,ESC_PA8475AA,Livestock,Bovine,2012,Europe,France,Collaborator,This publication
+46149,ESC_PA8478AA,Livestock,Bovine,2016,Europe,France,Collaborator,This publication
+SRR3156776,ESC_CA6082AA,Environment,Water,2014,North America,United States,Public,NA
+SRR7726367,ESC_JA8854AA,Environment,Wastewater,2018,North America,United States,Public,NA
+SRR8502414,ESC_LA0984AA,Environment,Water,2015,Europe,United Kingdom,Public,NA
+SRR9887388,ESC_OA8498AA,Environment,Water,2013,Europe,Sweden,Public,NA
+SRR9887395,ESC_OA8505AA,Environment,Water,2013,Europe,Sweden,Public,NA
+SRR9887396,ESC_OA8506AA,Environment,Water,2013,Europe,Sweden,Public,NA
+SRR10536667,ESC_PA3570AA,Environment,Water,2019,North America,United States,Public,NA
+SRR3931199,ESC_EA4081AA,Food,Plant,2009,North America,United States,Public,NA
+SRR7263703,ESC_JA1678AA,Food,Plant,2002,North America,United States,Public,NA
+SRR8140215,ESC_KA4963AA,Food,Plant,2009,North America,United States,Public,NA
+SRR9914075,ESC_NA6851AA,Food,Plant,2009,North America,United States,Public,NA
+SRR3143601,ESC_DA4611AA,Human,ExPEC,2012,Europe,United Kingdom,Public,NA
+SRR5004156,ESC_FA2108AA,Human,Human Other,2016,North America,United States,Public,NA
+SRR3457725,ESC_DA1038AA,Livestock,Porcine,1986,North America,United States,Public,NA
+SRR3465476,ESC_DA1177AA,Livestock,Porcine,2013,North America,United States,Public,NA
+SRR3987498,ESC_EA2397AA,Livestock,Bovine,1984,North America,United States,Public,NA
+SRR3987746,ESC_EA2681AA,Livestock,Bovine,2010,North America,United States,Public,NA
+SRR3987689,ESC_EA2738AA,Livestock,Livestock Other,1986,North America,United States,Public,NA
+SRR6412356,ESC_IA1584AA,Livestock,Poultry,1987,North America,United States,Public,NA
+SRR6427137,ESC_IA1766AA,Livestock,Porcine,1983,North America,United States,Public,NA
+SRR6441170,ESC_IA1884AA,Livestock,Porcine,1983,North America,United States,Public,NA
+SRR6441144,ESC_IA1889AA,Livestock,Porcine,1983,North America,United States,Public,NA
+SRR7084884,ESC_IA7639AA,Livestock,Livestock Other,2012,North America,United States,Public,NA
+SRR8140251,ESC_KA4935AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8140243,ESC_KA4943AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR8140236,ESC_KA4950AA,Livestock,Bovine,2018,North America,United States,Public,NA
+SRR9301016,ESC_NA1204AA,Livestock,Ovine,2019,North America,United States,Public,NA
+SRR3465478,ESC_DA1175AA,Wild Animal,Other Mammal,2013,North America,United States,Public,NA
+SRR3957089,ESC_EA1705AA,Wild Animal,Other Mammal,1996,North America,United States,Public,NA
+SRR3957074,ESC_EA1720AA,Wild Animal,Avian,1987,North America,United States,Public,NA
+SRR3972148,ESC_EA2195AA,Wild Animal,Other Mammal,1996,North America,United States,Public,NA
+SRR3987507,ESC_EA2388AA,Wild Animal,Other Mammal,1985,North America,United States,Public,NA
+SRR3993799,ESC_EA3092AA,Wild Animal,Avian,1992,North America,United States,Public,NA
+SRR5341918,ESC_GA0724AA,Wild Animal,Other Mammal,1997,North America,United States,Public,NA
+SRR6427410,ESC_IA1804AA,Wild Animal,Avian,2000,North America,United States,Public,NA
+SRR6726710,ESC_IA3983AA,Wild Animal,Avian,1988,North America,United States,Public,NA
+SRR7500674,ESC_JA6045AA,Wild Animal,Other Mammal,2000,North America,United States,Public,NA
+SRR7724612,ESC_JA8612AA,Wild Animal,Avian,2017,Oceania,Australia,Public,NA
+SRR7724751,ESC_JA8751AA,Wild Animal,Avian,2017,Oceania,Australia,Public,NA
+ERR3040214,ESC_LA0106AA,Wild Animal,Other Mammal,2018,Asia,China,Public,NA
+SRR9153325,ESC_MA9007AA,Wild Animal,Other Mammal,2018,North America,United States,Public,NA
+SRR9914141,ESC_NA6417AA,Wild Animal,Avian,1993,North America,United States,Public,NA
+SRR9913778,ESC_NA6554AA,Wild Animal,Avian,2003,North America,United States,Public,NA
