@@ -702,8 +702,8 @@ vir_comparisons <- list(c("BAP1", "BAP2"),
 bap_argplot_p <- bap_argplot + stat_compare_means(comparisons = arg_comparisons, method = "wilcox.test")    
 bap_virplot_p <- bap_virplot + stat_compare_means(comparisons = vir_comparisons, method = "wilcox.test")    
 
-colv_argplot_p <- colv_argplot + stat_compare_means(method = "t.test", label.x = 1.25)    
-colv_virplot_p <- colv_virplot + stat_compare_means(method = "t.test", label.x = 1.25) 
+colv_argplot_p <- colv_argplot + stat_compare_means(method = "wilcox.test", label.x = 1.25)    
+colv_virplot_p <- colv_virplot + stat_compare_means(method = "wilcox.test", label.x = 1.25) 
 
 # Plot them all together
 figure7 <- ggarrange(bap_argplot_p, bap_virplot_p, colv_argplot_p, colv_virplot_p, 
@@ -926,7 +926,7 @@ figure9 <- pheatmap(mat = paircast_mat2,
                     na.cols = "grey")
 
 # Save figure - PLEASE NOTE THIS FIGURE IN THE MANUSCRIPT HAS HAD ITS LEGENDS RE-DRAWN MANUALLY FOR CONSISTENCY OF PRESENTATION
-ggsave("Figure9.lowSNPheatmap.png", 
+ggsave("Figure9_lowSNPheatmap.png", 
        figure9, 
        path = "outputs/figures/", 
        device = "png", 
