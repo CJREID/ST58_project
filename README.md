@@ -54,17 +54,17 @@ Run the data_vis.R script and watch your __`outputs`__ folder magically fill wit
 3. Figure 3. Source and F RST distributions by BAP cluster
 4. Figure 4. pCERC4 heatmap (Exported in 3 parts; manually edited for publication)
 5. Figure 5. Source distribution by ColV status in ST58 Collection
-6. Figure 6. Tree-heatmap of presence/absence of BAP3 (ColV) positively- and negatively-associated genes (Additional manual annotation in manuscript)
+6. Figure 6. Tree-heatmap of presence/absence of BAP2 (ColV) positively- and negatively-associated genes (Additional manual annotation in manuscript)
 7. Figure 7. Virulence and resistance gene carriage rates by BAP cluster
 8. Figure 8. Source distributions of ColV in Enterobase genome collection
 9. Figure 9. Heatmap of low SNP distances between epidemiologically unrelated sequences
 
 ### Supplementary
 #### Tables
-1. Table S1. Processed metadata and accession numbers for all sequences
-2. Table S2. Gene presence/absence data
-3. Table S3. Genes postively/negatively-associated with BAP clusters as identified by Roary and Scoary
-4. Table S4. Enterobase metadata and ColV gene screening
+1. Supplementary Data 1. Processed metadata and accession numbers for all sequences
+2. Supplementary Data 2. Gene presence/absence data
+3. Supplementary Data 3. Genes postively/negatively-associated with BAP clusters as identified by Roary and Scoary
+4. Supplementary Data 4. Enterobase metadata and ColV gene screening
 
 #### Figures
 1. Fig. S1. Source distribution across all collection years
@@ -73,7 +73,7 @@ Run the data_vis.R script and watch your __`outputs`__ folder magically fill wit
 4. Fig. S4. F RST by source and ColV carriage
 5. Fig. S5. Heatmap of Liu ColV criteria gene carriage for ColV+ sequences (Manually edited in manuscript)
 6. Fig. S6. Absolute and relative ColV carriage by sources
-7. Fig. S7. BAP5 Scoary Heatmap (Additional manual annotation in manuscript)
+7. Fig. S7. BAP6 Scoary Heatmap (Additional manual annotation in manuscript)
 8. Fig. S8. Tree-heatmap of antimicrobial resistance genes
 9. Fig. S9. Tree-heatmap of virulence-associated genes
 10. Fig. S10. Tree-heatmap of plasmid replicon genes
