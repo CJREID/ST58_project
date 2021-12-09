@@ -75,7 +75,8 @@ geno_meta$Source <- recode(geno_meta$Source,
 
 # Join serotype and fimH data
 geno_meta <- left_join(geno_meta, entero_OH, by = "Barcode")
-geno_meta <- left_join(geno_meta, entero_fimH, by = "Barcode")
+geno_meta <- left_join(geno_meta, entero_fimH, by = "Barcode") %>% 
+  select(Name, Assembly_barcode, Barcode, Source, Length, Coverage, ST, ST.x, `O Antigen`, `H Antigen`, fimH, everything())
 
 # Define most abundant STs as those with >100 assemblies
 topSTs <- 
@@ -107,5 +108,5 @@ entero_source <- left_join(geno_meta %>% group_by(Source) %>% dplyr::summarise(`
                      geno_meta %>% group_by(Source, ColV) %>% dplyr::summarise(Total_ColV = n())) %>%
   mutate(`Source Carriage` = `Total_ColV`/`Total Source`*100)
 
-# Write TableS3
-write_csv(geno_meta, "outputs/data/TableS4.enterobase_colv.csv")
+# Write Supplementary Data 4
+write_csv(geno_meta, "outputs/data/SuppData4.enterobase_colv.csv")

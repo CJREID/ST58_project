@@ -113,4 +113,4 @@ bap_data <- rbind(bap_2_over, bap_2_under, bap_6_over, bap_6_under) %>% select(B
 
 bap_data <- bap_data %>% mutate(BAP = toupper(BAP), BAP = gsub("_", "", BAP))
 
-write_csv(bap_data, "outputs/data/TableS3.roary_scoary.csv")
+write_csv(bap_data, "outputs/data/SuppData3.roary_scoary.csv")

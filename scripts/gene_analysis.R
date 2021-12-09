@@ -38,11 +38,11 @@ assembly_stats <- read_tsv("raw_data/assembly-stats/ST58.assemblystats.tsv", ski
   mutate(Name = gsub("\\.fasta", "",Name))
 
 # Check maximum and minimum genome sizes are normal
-min(assembly_stats$total_length)  # Min = 4,602,717
-max(assembly_stats$total_length)  # Max = 5,890,098 - both normal
+min(assembly_stats$Assembly_length)  # Min = 4,602,717
+max(assembly_stats$Assembly_length)  # Max = 5,890,098 - both normal
 
 # Check contigs < 1000
-max(assembly_stats$number) # Maximum 874
+max(assembly_stats$n_contigs) # Maximum 874
 
 ####------POINTFINDER------####
 # Read in mutation data
@@ -526,7 +526,6 @@ abricate_hits$perc_coverage <- as.numeric(abricate_hits$perc_coverage)
 abricate_hits$perc_identity <- as.numeric(abricate_hits$perc_identity)
 
 #Filter to perc_identity > 90%
-#abricate_hits <-
 abricate_hits <- abricate_hits %>% filter(perc_identity > min_hit_id)
 abricate_hits <- abricate_hits %>% filter(perc_coverage > min_hit_length)
 
@@ -812,21 +811,25 @@ metadata <- metadata %>% select(Name, Barcode, Biosample, SRA_accession,
                                 `Data Origin`, PMID, Niche, Source, `Collection Year`, 
                                 Continent, Country, BAP, everything(), -ColV_sum)
 
+meta_cols <- names(metadata)
+
 # Create combined metadata and gene screening tables for data exploration
 meta_arg <- left_join(metadata, arg, by = "Name") %>% select(-FQR.y)
 meta_vir <- left_join(metadata, vir, by = "Name")
 meta_plas <- left_join(metadata, plas, by = "Name")
 meta_mge <- left_join(metadata, mge, by = "Name")
-meta_colv <- left_join(metadata, colV, by = "Name")
+meta_colv <- left_join(metadata, colV, by = "Name") %>% select(-ColV.y) %>% rename(ColV = ColV.x)
+
 
 # Combine all of them for Supplementary Table 2
-meta_genes <- left_join(meta_arg, meta_vir %>% select(Name, bmaE:ncol(meta_vir)), by = "Name")
+meta_genes <- left_join(meta_arg, meta_vir %>% select(Name, bmaE:ncol(meta_vir)), by = "Name") %>% rename(`fimH allele` = fimH, fimH = fimH.y)
 meta_genes <- left_join(meta_genes, meta_plas %>% select(Name, Col156:ncol(meta_plas)), by = "Name")
 meta_genes <- left_join(meta_genes, meta_mge %>% select(Name, IS1:ncol(meta_mge)), by = "Name")
-meta_genes <- left_join(meta_genes, meta_colv %>% select(Name, cvaA:ncol(meta_colv)), by = "Name")
+meta_genes <- left_join(meta_genes, meta_colv %>% select(Name, cvaA:ncol(meta_colv)), by = "Name") %>%
+  select(-contains(".x")) %>% rename_with(~ gsub("\\.y", "", .x)) %>% mutate(across(where(is.numeric), ~replace_na(.x, 0)))
 
 # Write Supplementary Table 1
-write_csv(metadata, "outputs/data/TableS1.full_metadata.csv")
+write_csv(metadata, "outputs/data/SuppData1.full_metadata.csv")
 
 # Write Supplementary Table 2
-write_csv(meta_genes, "outputs/data/TableS2.gene_screening.csv")
+write_csv(meta_genes, "outputs/data/SuppData2.gene_screening.csv")

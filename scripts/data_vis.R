@@ -13,6 +13,7 @@ library(reshape2)
 library(pheatmap)
 library(ggtree)
 library(RColorBrewer)
+library(rstatix)
 
 ####-----SETUP-----####
 # USEFUL FUNCTION FOR SUBSETTING
@@ -214,7 +215,7 @@ ggsave("Figure1_metadata.png",
        width= 297, 
        height = 210, 
        unit ="mm", 
-       dpi = 600)
+       dpi = 300)
 
 ####------FIGURE 2 - PHYLOGENETIC TREE------####
 # Define BAP group names for use with the groupOTU function
@@ -395,7 +396,7 @@ ggsave("Figure3_BAP_slices.png",
        width= 297, 
        height = 210, 
        unit ="mm", 
-       dpi = 600)
+       dpi = 300)
 
 ####------FIGURE 4 - pCERC4 HEATMAP-------####
 # NOTE THIS FIGURE IS A COMPOSITE OF THREE TREE-HEATMAPS ALIGNED TOGETHER
@@ -417,23 +418,23 @@ figure4_pt1 <- gheatmap(tree2,
                      font.size = 2,
                      hjust = 0,
                      colnames =FALSE,
-                     width = 7,
-                     offset = -153.5,
+                     width = 1,
+                     offset = -10.5,
                      color = NULL) + 
-  scale_fill_manual(values = F_cols, na.value = "white") +
+  scale_fill_manual(values = c(F_cols, "Yes" = "#df03fc", "No" = "white"), na.value = "white") +
   theme(legend.position = "none")
 
 # Tree with ColV +/- bands
 figure4_pt2 <- gheatmap(tree2,
-                        data = colV_ggtree,
-                        font.size = 2,
-                        hjust = 0,
-                        colnames =FALSE,
-                        width = 3,
-                        offset = -65,
-                        color = NULL) + 
-                        scale_fill_manual(values = c("Yes" = "#df03fc", "No" = "white")) +
-                        theme(legend.position = "none")
+                       data = colV_ggtree,
+                       font.size = 2,
+                       hjust = 0,
+                       colnames =FALSE,
+                       width = 3,
+                       offset = -65,
+                       color = NULL) + 
+                       scale_fill_manual(values = c("Yes" = "#df03fc", "No" = "white")) +
+                       theme(legend.position = "none")
 
 # Tree with pCERC4 binned BLAST hits heatmaps
 figure4_pt3 <- gheatmap(tree2, 
@@ -442,7 +443,7 @@ figure4_pt3 <- gheatmap(tree2,
                         hjust = 0,
                         colnames =FALSE,
                         width = 20,
-                        offset = 10,
+                        offset = 50,
                         color = NULL) + 
       scale_fill_gradient(low = "white", high = "#8dd3c7", na.value = "white") +
       theme(legend.position = "none")
@@ -464,7 +465,7 @@ ggsave("Figure4_pt2_unedited_pCERC4_map.png",
        width= 297, 
        height = 210, 
        unit ="mm", 
-       dpi = 600)
+       dpi = 300)
 
 ggsave("Figure4_pt3_unedited_pCERC4_map.png",
        figure4_pt3, 
@@ -489,6 +490,7 @@ colvplot <- ggplot(meta2, aes(fct_rev(fct_infreq(factor(ColV))), `Count`)) +
         axis.title.y = element_text(color = "grey20",vjust = , size = 16, face = "plain"),
         legend.position = "bottom") 
 
+# Sources in major BAP2 and BAP6 clusters
 bap_source_plot <- ggplot(meta2 %>% filter(BAP == "BAP2" | BAP == "BAP6"), aes(BAP, `Count`)) +
   geom_bar(aes(fill = `Source`), stat="identity") +
   scale_fill_manual(values = type_cols) +
@@ -509,7 +511,7 @@ ggsave("Figure5_SourceColV.png",
        width= 297, 
        height = 210, 
        unit ="mm", 
-       dpi = 600)
+       dpi = 300)
 
 ####------FIGURE 6 - SCOARY GENES WITH PHYLOGENY-------####
 # Get gene presence absence from full Roary table
@@ -644,21 +646,21 @@ bap_argplot <- ggboxplot(meta_arg_bapfilt,
                          order = c("BAP1", "BAP2", "BAP3", "BAP4", "BAP5", "BAP6"),
                          ylab = "ARGs", xlab = "BAP Group")
 
-# Generate boxplot of Total VAGs by BAP group
+# Generate boxplot of Total by BAP group
 bap_virplot <-  ggboxplot(meta_vir_bapfilt, 
                           x = "BAP", y = "Total VAGs",
                           color = "BAP", palette = bap_cols_graph,
                           order = c("BAP1", "BAP2", "BAP3", "BAP4", "BAP5", "BAP6"),
                           ylab = "VAGs", xlab = "BAP Group")
 
-# Generate boxplot of Total ARGs by ColV +/-
+# Generate boxplot of Total by ColV +/-
 colv_argplot <-  ggboxplot(meta_arg, x = "ColV", y = "Total ARGs",
                            color = "ColV", palette = c("#92f7e6", "#f52020"),
                            order = c("Yes", "No"),
                            ylab = "ARGs", xlab = "ColV") +
   scale_x_discrete(label = c("Positive", "Negative"))
 
-# Generate boxplot of Total VAGs by ColV +/-
+# Generate boxplot of Total by ColV +/-
 colv_virplot <-  ggboxplot(meta_vir, x = "ColV", y = "Total VAGs",
                            color = "ColV", palette = c("#92f7e6", "#f52020"),
                            order = c("Yes", "No"),
@@ -672,38 +674,63 @@ kruskal.test(`Total ARGs` ~ ColV, data = meta_arg)
 kruskal.test(`Total VAGs` ~ ColV, data = meta_vir)
 
 # Pairwise Wilcoxon tests to determine the pairwise differences between BAP groups with BH adjustment for multiple testing
-pairwise.wilcox.test(meta_arg_bapfilt$`Total ARGs`, meta_arg_bapfilt$BAP,
-                     p.adjust.method = "BH")
-pairwise.wilcox.test(meta_vir_bapfilt$`Total VAGs`, meta_vir_bapfilt$BAP,
-                     p.adjust.method = "BH")
+# ARGs
+# Generate test statistics
+arg_wcox_bap <- meta_arg_bapfilt %>% mutate(BAP = as.character(BAP)) %>% pairwise_wilcox_test(`Total ARGs` ~ BAP, p.adjust.method = "BH")
+arg_wcox_bap <- arg_wcox_bap %>% add_xy_position(x = "BAP")
+# Filter p-values to only display signficant comparisons between BAP2 and other groups
+arg_wcox_bap <- arg_wcox_bap %>% filter(group1 == "BAP2")
+
+# Replot with BH adjusted p-values on figure
+bap_argplot_p <- bap_argplot + 
+  stat_pvalue_manual(arg_wcox_bap,
+                     label = "p = {p.adj}",
+                     label.size = 3.5,
+                     bracket.nudge.y = c(-10, -9.5,-9, -8.5)) +
+  theme(legend.position = "none")
+
+# VAGs
+# Generate test statistics
+vir_wcox_bap <- meta_vir_bapfilt %>% mutate(BAP = as.character(BAP)) %>% pairwise_wilcox_test(`Total VAGs` ~ BAP, p.adjust.method = "BH")
+vir_wcox_bap <- vir_wcox_bap %>% add_xy_position(x = "BAP")
+# Filter p-values to only display signficant comparisons between BAP2 and other groups
+vir_wcox_bap <- vir_wcox_bap %>% filter(group1 == "BAP2" | group2 == "BAP2")
+
+# Replot with BH adjusted p-values on figure
+bap_virplot_p <- bap_virplot + 
+  stat_pvalue_manual(vir_wcox_bap,
+                     label = "p = {p.adj}",
+                     label.size = 3.5,
+                     bracket.size = .3,
+                     bracket.nudge.y = c(1,-7,-6,-5,-4)) +
+  theme(legend.position = "none")
 
 # Wilcoxon Rank-Sum test for difference between two groups (ColV+ and ColV-) for ARG and VAG carriage 
-wilcox.test(x = as.numeric(unlist(meta_arg %>% filter(ColV == "Yes") %>% select(`Total ARGs`))), 
-            y = as.numeric(unlist(meta_arg %>% filter(ColV == "No") %>% select(`Total ARGs`))),
-            conf.int = TRUE)
+# ARGs
+# Generate test statistics
+arg_wcox_colv <- meta_arg %>% mutate(BAP = as.character(BAP)) %>% wilcox_test(`Total ARGs` ~ ColV, detailed = TRUE)
+arg_wcox_colv <- arg_wcox_colv %>% add_xy_position(x = "ColV")
 
-wilcox.test(x = as.numeric(unlist(meta_vir %>% filter(ColV == "Yes") %>% select(`Total VAGs`))), 
-            y = as.numeric(unlist(meta_vir %>% filter(ColV == "No") %>% select(`Total VAGs`))),
-            conf.int = TRUE)
+# Plot with p-values on figure
+colv_argplot_p <- colv_argplot +
+  stat_pvalue_manual(arg_wcox_colv,
+                     label = "p = {p}",
+                     label.size = 3.5,
+                     bracket.nudge.y = 1) +
+  theme(legend.position = "none")
 
-# Create a list of significantly different group-pairs as determined by Wilcoxon tests above
-arg_comparisons <- list(c("BAP2", "BAP3"),
-                        c("BAP2", "BAP4"),
-                        c("BAP2", "BAP5"),
-                        c("BAP2", "BAP6"))
+#VAGs
+vir_wcox_colv <- meta_vir %>% mutate(BAP = as.character(BAP)) %>% wilcox_test(`Total VAGs` ~ ColV, detailed = TRUE)
+vir_wcox_colv <- vir_wcox_colv %>% add_xy_position(x = "ColV")
 
-vir_comparisons <- list(c("BAP1", "BAP2"),
-                        c("BAP2", "BAP3"),
-                        c("BAP2", "BAP4"),
-                        c("BAP2", "BAP5"),
-                        c("BAP2", "BAP6"))
+# Plot with p-values on figure
+colv_virplot_p <- colv_virplot +
+  stat_pvalue_manual(vir_wcox_colv,
+                     label = "p = {p}",
+                     label.size = 3.5,
+                     bracket.nudge.y = 1) +
+  theme(legend.position = "none")
 
-# Plot with signficant differences annotated
-bap_argplot_p <- bap_argplot + stat_compare_means(comparisons = arg_comparisons, method = "wilcox.test")    
-bap_virplot_p <- bap_virplot + stat_compare_means(comparisons = vir_comparisons, method = "wilcox.test")    
-
-colv_argplot_p <- colv_argplot + stat_compare_means(method = "wilcox.test", label.x = 1.25)    
-colv_virplot_p <- colv_virplot + stat_compare_means(method = "wilcox.test", label.x = 1.25) 
 
 # Plot them all together
 figure7 <- ggarrange(bap_argplot_p, bap_virplot_p, colv_argplot_p, colv_virplot_p, 
@@ -717,7 +744,7 @@ ggsave("Figure7_ARGsVAGs.png",
        width= 297, 
        height = 210, 
        unit ="mm", 
-       dpi = 600)
+       dpi = 300)
 
 ####------FIGURE 8 - SOURCE DISTRIBUTION COLV IN ENTEROBASE-------####
 # Plot Source vs ColV carriage, coloured by Source
@@ -802,7 +829,7 @@ ggsave("Figure8_EnterobaseColV.png",
        width= 297, 
        height = 210, 
        unit ="mm", 
-       dpi = 600)
+       dpi = 300)
 
 ####------FIGURE 9 - LOW SNP DISTANCE HEATMAP-------####
 # Read SNP data in - assumes you have a blank top left cell
@@ -933,7 +960,7 @@ ggsave("Figure9_lowSNPheatmap.png",
        width = 250,
        height = 180,
        unit ="mm", 
-       dpi = 600)
+       dpi = 300)
 
 ####------SUPP FIGURE 1 - EXPANDED COLLECTION YEARS-------####
 # Year by Source
@@ -957,7 +984,7 @@ ggsave("FigureS1_allyears.png",
        width= 297, 
        height = 150, 
        unit ="mm", 
-       dpi = 600) 
+       dpi = 300) 
 
 ####------SUPP FIGURE 2 - OH TYPES BY SOURCE AND COLV-------####
 # OH by Source
@@ -998,7 +1025,7 @@ ggsave("FigureS2_OH.png",
        width= 297, 
        height = 150, 
        unit ="mm", 
-       dpi = 600)
+       dpi = 300)
 
 ####------SUPP FIGURE 3 - FIMH BY SOURCE AND COLV-------####
 # fimH by Source
@@ -1039,7 +1066,7 @@ ggsave("FigureS3_fimH.png",
        width= 297, 
        height = 150, 
        unit ="mm", 
-       dpi = 600)
+       dpi = 300)
 
 ####------SUPP FIGURE 4 - F-pMLST BY SOURCE AND COLV-------####
 # F-plasmid pMLST by ColV proportional
@@ -1101,7 +1128,7 @@ ggsave("FigureS4_Ftype.png",
        width= 297, 
        height = 150, 
        unit ="mm", 
-       dpi = 600)
+       dpi = 300)
 
 ####------SUPP FIGURE 5 - LIU COLV GENE PRESENCE/ABSENCE W/ COLBM MARKERS-------####
 # Select ColV positive strains
@@ -1111,17 +1138,17 @@ meta_colv_pos <- meta_colv %>%
          `F Plasmid` = gsub("Other", "Other F Plasmid", `F Plasmid`),
          `F Plasmid` = replace_na(`F Plasmid`, "No F Plasmid"))
 
-colbm <- meta_vir %>% select(Name, cba, cma) %>% filter(Name %in% meta_colv_pos$Name)
+# colbm <- meta_vir %>% select(Name, cba, cma) %>% filter(Name %in% meta_colv_pos$Name)
 
-meta_colv_pos <- left_join(meta_colv_pos, colbm)
+# meta_colv_pos <- left_join(meta_colv_pos, colbm)
 
 # Extract names
 r_nam <- meta_colv_pos$Name
 
 # Select genes
-genes_only <- meta_colv_pos %>% select(cvaA:sitD, cba, cma)
+genes_only <- meta_colv_pos %>% select(cvaA:sitD)
 
-genes_n_meta <- meta_colv_pos %>% select(cvaA:sitD, cba, cma)
+genes_n_meta <- meta_colv_pos %>% select(cvaA:sitD)
 
 # Select sources for annotation
 source <- meta_colv_pos %>% dplyr::select(`Source`)
@@ -1136,7 +1163,7 @@ rownames(f_type) <- r_nam
 
 # Combine Source and F-types
 anno_cols = cbind(`Source` = source, `F Plasmid` = f_type)
-rownames(anno_cols)<-r_nam
+rownames(anno_cols) <- r_nam
 
 # Transpose gene presence/absence matrix
 flip_genes <- t(genes_only)
@@ -1165,7 +1192,7 @@ ggsave("FigureS5_colV_genes_raw.png",
        width= 297, 
        height = 210, 
        unit ="mm", 
-       dpi = 600)
+       dpi = 300)
 
 
 ####------SUPP FIGURE 6 - COLV CARRIAGE BY SOURCE-------####
@@ -1210,7 +1237,7 @@ ggsave("FigureS6_SourceColV.png",
        width= 297, 
        height = 150, 
        unit ="mm", 
-       dpi = 600)
+       dpi = 300)
 
 
 ####------SUPP FIGURE 7 - BAP6 SCOARY HEATMAP-------####
@@ -1355,6 +1382,10 @@ core_snps.A[les15] <- "0-15"
 # Restore rownames
 rownames(core_snps.A) <- rows
 
+core_snps.A <- core_snps.A[colordnum,]
+
+rownames(core_snps.A) <- names(core_snps.A)
+
 # SNP range breaks
 SNP_brks<-c("0-15",
         "16-25",
@@ -1386,7 +1417,7 @@ ggsave("FigureS11_SNP_heatmap.png",
        width= 297, 
        height = 210, 
        unit ="mm", 
-       dpi = 1200)
+       dpi = 600)
 
 ####------EXTRA PLOTS-------####
 # H by Source
@@ -1429,6 +1460,3 @@ I1_bap_ST <- meta_plas %>% filter(!is.na(I1_simple)) %>%
 I1_bap_abs <- meta_plas %>% filter(!is.na(I1_simple)) %>% 
   ggplot(aes(x=BAP, fill = I1_simple)) +
   geom_bar(position = "stack")
-  
-
-
