@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/413665787.svg)](https://zenodo.org/badge/latestdoi/413665787)
+
 # ST58 Manuscript
 Scripts, data and outputs of a paper on the genomic epidemiology of *E. coli* ST58
 
