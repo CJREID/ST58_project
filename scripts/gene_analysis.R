@@ -571,9 +571,24 @@ empty_plasmatrix <- matrix(rep(empty_plasrow,
 
 #Create a list of levels for sample names, a list of start coords and a list of end coords
 #and bind these in a list of lists
-start_ends <- list(as.list(as.integer(as.factor(abricate_hits$name))),
+start_ends <- list(as.list(as.integer(factor(abricate_hits$name, levels = unique(abricate_hits$name)))),
                    as.list(as.integer(abricate_hits$start)),
                    as.list(as.integer(abricate_hits$end)))
+
+name_fact_as_int <- as.integer(factor(abricate_hits$name, levels = unique(abricate_hits$name)))
+
+name_fact <- abricate_hits$name
+
+check_df <- as.data.frame(cbind(name_fact, name_fact_as_int))
+
+check <- as.integer(unique(check_df$name_fact_as_int))
+
+if (sum(c(1:length(unique(abricate_hits$name))) != check) != 0) {
+  print("Error - have a look at the check_df dataframe in the global environment. Names may have been sorted incorrectly.")
+  assign("check_df", check_df, envir=globalenv())
+  break
+}
+
 
 #Create a counter
 counter <- 0
