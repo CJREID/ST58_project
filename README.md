@@ -10,25 +10,26 @@ It comprises two directories: __`scripts`__ and __`raw_data`__ (the contents of 
 
 ## Installation
 ### Software requirements
-These scripts are currently functional on mac OS Big Sur 11.5.2 using RStudio 1.4.1106 and R version 4.0.5. We cannot guarantee they will work on other distributions of R or RStudio. Your OS should not be an issue provided you use these versions of R and RStudio though.
+These scripts are currently functional on mac OS Big Sur 11.6.1 using RStudio 1.4.1106 and R version 4.0.5. We cannot guarantee they will work on other distributions of R or RStudio. Your OS should not be an issue provided you use these versions of R and RStudio though.
 
 ### R Packages
 You will need to install the following packages and versions to work with the scripts:
 - data.table_1.14.0
 - tidyverse_1.3.1
 - magrittr_2.0.1
+- rstatix_0.7.0
 - RColorBrewer_1.1-2
 - ggtree_3.1.0
 - pheatmap_1.0.12
 - reshape2_1.4.4
 - ggpubr_0.4.0
 - ggplot2_3.3.5
-- tibble_3.1.4
+- tibble_3.1.5
 - purrr_0.3.4
 - readr_2.0.1
 - stringr_1.4.0
 - forcats_0.5.1
-- tidyr_1.1.3
+- tidyr_1.1.4
 - dplyr_1.0.7
 
 ### Issues with ggtree
