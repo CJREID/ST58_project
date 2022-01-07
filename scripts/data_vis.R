@@ -404,40 +404,24 @@ ggsave("Figure3_BAP_slices.png",
 tree2 <- ggtree(grouped_tree, aes(color=group), branch.length = "none") %<+% metadata +
   scale_color_manual(values = bap_cols)
 
-# Create vector of F types with strain names as rownames
-F_types_ggtree <- metadata %>% select(`F Plasmid`)
-rownames(F_types_ggtree) <- metadata$Name
+# Create df of F types and ColV +/- with strain names as rownames
+F_colv_ggtree <- metadata %>% select(`F Plasmid`, ColV)
+rownames(F_colv_ggtree) <- metadata$Name
 
-# As above except with ColV presence/absence
-colV_ggtree <- metadata %>% select(ColV)
-rownames(colV_ggtree) <- metadata$Name
-
-# Tree with F type bands
+# Tree with F type and ColV bands
 figure4_pt1 <- gheatmap(tree2,
-                     data = F_types_ggtree,
-                     font.size = 2,
-                     hjust = 0,
-                     colnames =FALSE,
-                     width = 1,
-                     offset = -10.5,
-                     color = NULL) + 
+         data = F_colv_ggtree,
+         font.size = 2,
+         hjust = 0,
+         colnames =FALSE,
+         width = .05,
+         offset = 0,
+         color = NULL) + 
   scale_fill_manual(values = c(F_cols, "Yes" = "#df03fc", "No" = "white"), na.value = "white") +
   theme(legend.position = "none")
 
-# Tree with ColV +/- bands
-figure4_pt2 <- gheatmap(tree2,
-                       data = colV_ggtree,
-                       font.size = 2,
-                       hjust = 0,
-                       colnames =FALSE,
-                       width = 3,
-                       offset = -65,
-                       color = NULL) + 
-                       scale_fill_manual(values = c("Yes" = "#df03fc", "No" = "white")) +
-                       theme(legend.position = "none")
-
 # Tree with pCERC4 binned BLAST hits heatmaps
-figure4_pt3 <- gheatmap(tree2, 
+figure4_pt2 <- gheatmap(tree2, 
                         data = binned_hits,
                         font.size = 2,
                         hjust = 0,
@@ -456,19 +440,10 @@ ggsave("Figure4_pt1_unedited_pCERC4_map.png",
        width= 297, 
        height = 210, 
        unit ="mm", 
-       dpi = 600)
+       dpi = 300)
 
 ggsave("Figure4_pt2_unedited_pCERC4_map.png",
        figure4_pt2, 
-       path = "outputs/figures/", 
-       device = "png",
-       width= 297, 
-       height = 210, 
-       unit ="mm", 
-       dpi = 300)
-
-ggsave("Figure4_pt3_unedited_pCERC4_map.png",
-       figure4_pt3, 
        path = "outputs/figures/", 
        device = "png",
        width= 297, 
