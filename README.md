@@ -55,7 +55,7 @@ Run the data_vis.R script and watch your __`outputs`__ folder magically fill wit
 1. Figure 1. Metadata summary
 2. Figure 2. Core gene phylogenetic tree with metadata (Additional manual annotation in manuscript)
 3. Figure 3. Source and F RST distributions by BAP cluster
-4. Figure 4. pCERC4 heatmap (Exported in 3 parts; manually edited for publication)
+4. Figure 4. pCERC4 heatmap (Exported in 2 parts; manually edited for publication)
 5. Figure 5. Source distribution by ColV status in ST58 Collection
 6. Figure 6. Tree-heatmap of presence/absence of BAP2 (ColV) positively- and negatively-associated genes (Additional manual annotation in manuscript)
 7. Figure 7. Virulence and resistance gene carriage rates by BAP cluster
